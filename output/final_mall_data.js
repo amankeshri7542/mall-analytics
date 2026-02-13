@@ -1,0 +1,18761 @@
+module.exports = [
+  {
+    "Mall Name": "Orion Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Orion Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Orion BNG"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Orion Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Brigade Orion Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Orion Mall"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Orion Mall, Malleshwaram West (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Orion Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell , Brigade Gateway"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Orion Mall, Bengaluru)"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Orion Mall, Malleshwaram, Bengaluru"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women - Orion Mall, Bangalore"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Orion Mall"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Orion Mall"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Orion Gateway Mall, Bengaluru)"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Bangalore - Brigade Orion"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign India Pvt Ltd"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in Karnataka"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Orion Mall Bangalore"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Orion Mall, Bangalore"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Bengaluru - Orion Mall"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "EA7 Emporio Armani"
+      },
+      {
+        "Brand name": "EA7-Luxe Instant Voucher",
+        "Product ID": "EA7-Luxe Instant Voucher",
+        "Store name": "EA7 Emporio Armani"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Brigade Orion Mall,"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "SIMON CARTER ORION MALL BENGALURU"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mantri Square Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Barbecue By Punjab Grill Malleshwaram"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Mantri Mall, Bangalore"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Mantri Square Mall, Bengaluru)"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Mantri Square Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Mantri Mall, Malleshwaram, Bengaluru (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - Mantri Mall, Bengaluru | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods by Punjab Grill Mantri Square Mall"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Mantri Malleswaram"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Mantri Square, Bengaluru"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Mantri Mall"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Car"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Parx Instant Vouchers",
+        "Product ID": "Parx Instant Vouchers",
+        "Store name": "Parx"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "VR Bengaluru",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Bengaluru, Karnataka"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - VR Mall, Bangalore"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon UK Innovation Lab"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      }
+    ]
+  },
+  {
+    "Mall Name": "UB City",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway UB City"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL STORE BANGALORE"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI UB City"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "Emporio Armani"
+      },
+      {
+        "Brand name": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Product ID": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Store name": "Salvatore Ferragamo"
+      },
+      {
+        "Brand name": "Jimmy Choo-Luxe Instant Voucher",
+        "Product ID": "Jimmy Choo-Luxe Instant Voucher",
+        "Store name": "Jimmy Choo"
+      },
+      {
+        "Brand name": "Canali-Luxe Instant Voucher",
+        "Product ID": "Canali-Luxe Instant Voucher",
+        "Store name": "Canali Boutique"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Parcos Luxe"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Awfis Prestige UB City"
+      },
+      {
+        "Brand name": "Kate Spade-Luxe Instant Voucher",
+        "Product ID": "Kate Spade-Luxe Instant Voucher",
+        "Store name": "kate spade"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Marketcity",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Phoenix Marketcity"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Phoenix Market City Mall, Mahadevapura (First Lens Replacement Free) (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Phoenix Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation Phoenix Marketcity"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Phoenix Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Phoenix Mall, Bangalore"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity, Mahadevapura"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity, Mahadevapura"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Phoenix Marketcity, Bangalore)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Phoenix Market"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Phoenix Market city"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Phoenix Market City, Bangalore"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids - PMC Bangalore"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever new"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Marketcity, Bangalore"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in Krishnarajapuram, Bengaluru"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Mahadevapura"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Gas Jeans PMC Banglore"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Bengaluru"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "SIMON CARTER PHOENIX MARKET CITY BENGALURU"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "PETER ENGLAND GIRLS AND BOYS PMC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "GT World Mall - Bengaluru",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Unlimited Fashion Store - Bengaluru North, Bengaluru"
+      },
+      {
+        "Brand name": "EasyBuy Instant Voucher",
+        "Product ID": "EasyBuy Instant Voucher",
+        "Store name": "EasyBuy"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Innovation Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Signature Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Gopalan Signature Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Polar Bear Instant Vouchers",
+        "Product ID": "Polar Bear Instant Vouchers",
+        "Store name": "Polar Bear Ice Cream Sundaes - Gopalan Mall OMR"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      }
+    ]
+  },
+  {
+    "Mall Name": "1 MG - Lido Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | 1MG Lido Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Crave by Leena @ Nature's Basket"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Centro",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Reliance Trends Instant Vouchers",
+        "Product ID": "Reliance Trends Instant Vouchers",
+        "Store name": "Chaat Lounge at Reliance Trends Centro, Bellandur"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Forum South Bengaluru",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Forum South Bengaluru"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Forum Kanakpura"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Falcon city Mall, Bangalore"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Falcon city Mall, Bangalore"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "PVR Luxe"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Forum Falcon"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Forum Falcon City"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Falcon City Auditorium"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO- Forum South, Bangalore"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Falcon City Mall"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Aarke Ritu Kumar"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans Falcon City"
+      },
+      {
+        "Brand name": "INGLOT Instant Vouchers",
+        "Product ID": "INGLOT Instant Vouchers",
+        "Store name": "Inglot"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Elements Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Fun Unlimited"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Elements Mall, Bengaluru)"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "Planet Fashion Instant Voucher",
+        "Product ID": "Planet Fashion Instant Voucher",
+        "Store name": "Planet Fashion"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Welcome to all types Gas Stove and AC repair and service"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd by Nykaa"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Mall Koramangala",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Nexus Seawoods Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Nexus Mall, Koramangala"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Nexus Mall, Koramangala"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Nexus Mall, Koramangala"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Nexus Koramangala | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Bangalore - Nexus Koramangala"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway The Forum Mall"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Forum Mall, Koramangala, Bangalore"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in Koramangala, Bengaluru"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Kiosk"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New forum"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Nexus Mall"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Koramangala"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Nexus Kormangala"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister (Nexus Koramangala Mall)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Whitefield",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Nexus Whitefield Mall"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Forum Neighbourhood Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Nexus Whitefield Connect"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Whitefield"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Nexus Whitefield Mall, Bangalore"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "VAN HEUSEN INNERWEAR - NEXUS"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Nexus Mall, Whitefield, Bengaluru)"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Whitefield"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak – Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Whitefield"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Property Management Services"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa beauty products"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Whitefield"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Nexus Whtefield"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Showroom"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Lulu Mall Bengaluru",
+    "City": "Bengaluru",
+    "State": "560023",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Lulu Global Mall, Rajajinagar (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Global Mall, Bengaluru"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Lulu Hypermarket Instant Vouchers",
+        "Product ID": "Lulu Hypermarket Instant Vouchers",
+        "Store name": "Classic car spa - Lulu Hypermarket"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Bangalore Lulu Mall, Bangalore"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Lulu Mall"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Candere - A Lifestyle Jewellery - Lulu Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Lulu Mall"
+      },
+      {
+        "Brand name": "Levis",
+        "Product ID": "Levis",
+        "Store name": "Levis Lulu Mall"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Lulu Mall"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Lulu Global Mall, Bengaluru)"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Lulu Mall, Bangalore"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Mall Of Asia",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Phoenix Mall of Asia"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance digital"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Phoenix Mall Of Asia"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Bangalore-Mall of Asia"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "Pret A Manger-Luxe Instant Voucher",
+        "Product ID": "Pret A Manger-Luxe Instant Voucher",
+        "Store name": "Pret A Manger"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Mall of Asia"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Visit Bata Shoe Store's website"
+      },
+      {
+        "Brand name": "VICTORIA'S SECRET Instant Vouchers",
+        "Product ID": "VICTORIA'S SECRET Instant Vouchers",
+        "Store name": "Victoria's Secret | Phoenix Mall of Asia"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Black Label"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Parcos Luxe"
+      },
+      {
+        "Brand name": "La Martina-Luxe Instant Voucher",
+        "Product ID": "La Martina-Luxe Instant Voucher",
+        "Store name": "La Martina"
+      },
+      {
+        "Brand name": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Product ID": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Store name": "Charles Tyrwhitt"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Kate Spade-Luxe Instant Voucher",
+        "Product ID": "Kate Spade-Luxe Instant Voucher",
+        "Store name": "Kate Spade"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Bhartiya Mall Of Bengaluru",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "SNITCH - Bhartiya City"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Bhartiya Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Bhartiya Mall of Bengaluru"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Bharatiya City Mall, Bengaluru (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Bhartiya Mall"
+      },
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Bhartiya City Mall - Thanisandra"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Bhartiya City Mall - Thanisandra"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Bhartiya Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Bhartiya City Centre, Bangalore"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Bhartiya City, Bangalore"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Showroom Unit no.22 UG, Bhartiya Mall , Upper Ground floor,Bangalore - 560064."
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Bhartiya"
+      },
+      {
+        "Brand name": "Max Fashion Instant Voucher",
+        "Product ID": "Max Fashion Instant Voucher",
+        "Store name": "MAX Fashion"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Devin Paradise Enclave"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Clothing Store, Bharitya Mall"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Bangalore - Bhartiya City"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Bengaluru - Bhartiya"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Vega City Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Fiesta by Barbeque Nation - Vega City"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "Puma"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Royal Meenakshi Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Royal Meenakshi Mall"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Royal Meenakshi Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Meenakshi Mall"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Bannerghatta Road"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Bannerghatta Road"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe Store"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Royal Meenakshi Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Park Square Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Whitefield"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Ascendas Park Square Mall, Bangalore"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at ITPL Park Square Mall, Bangalore"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at ITPL Park Square Mall, Bangalore"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "EasyBuy Instant Voucher",
+        "Product ID": "EasyBuy Instant Voucher",
+        "Store name": "EasyBuy"
+      },
+      {
+        "Brand name": "Polar Bear Instant Vouchers",
+        "Product ID": "Polar Bear Instant Vouchers",
+        "Store name": "Polar Bear Ice Cream Sundaes - Park Square Mall"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Ascendas Park"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Golden Heights",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      }
+    ]
+  },
+  {
+    "Mall Name": "mantri square mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "NEXUS SHANTINIKETAN",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Nexus Shantiniketan Mall"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Tanishq Jewellery - Bangalore - Prestige Forum Shantiniketan"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Bangalore - Prestige Forum Shantiniketan"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Nexus Shantiniketan Mall"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Shantiniketan, Bangalore"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Nexus Shantiniketan Connect"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Nexus Shantiniketan | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Whitefield"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Shantiniketan Mall, Whitefield, Bangalore"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "VAN HEUSEN"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak Store"
+      },
+      {
+        "Brand name": "Himalaya Wellness",
+        "Product ID": "Himalaya Wellness",
+        "Store name": "Himalaya Wellness Store - Shantiniketan Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Wellness Store - Shantiniketan Mall, Bengaluru"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Global Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Jayanagar Shopping Complex",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Jayanagar, Bengaluru"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Garuda Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Garuda"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Garuda Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Garuda Mall, Magrath road"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA - Bangalore - Garuda Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Car Spa"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Garuda Mall"
+      },
+      {
+        "Brand name": "CALL IT SPRING Instant Vouchers",
+        "Product ID": "CALL IT SPRING Instant Vouchers",
+        "Store name": "Call It Spring"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Divinity Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Global malls Divinty (Nayandahalli)"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Divinity Mall, Bangalore"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Global Mall Salarpuria, Banaglore"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Global Divinity Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Alankar Association",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Al-iqra mussalla(alankar plaza)above woodland"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Elegance Mantri Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "SSBeauty by Shoppers Stop - Bannerghatta"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Prabath Shopping Complex",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Rajatha Complex",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Arham Readymade (YOU & ME, ONLY HE PLUS)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Esteem Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Kempapura Hebbal"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "RITZY LIFESTYLE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Mall Sirsi Circle",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Forum Rex Walk",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Forum Rex Walk"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Commercial Street",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Bengaluru - Commercial Street"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Commercial Street Bangalore"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mantri Junction Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons OnLOOP (JP Nagar, Bengaluru)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The High Street",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "BDA Shopping Complex",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Cars unlimited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Devatha Plaza",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Aesthete Lifestyle Dentistry - Dr. Ashish & Akshay Shetty"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Commercial Plaza Parking Point",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Galleria Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - The Galleria Mall, Yelahanka"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - The Galleria Mall, Yelahanka"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - The Galleria Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - RMZ GALLERIA MALL, Bangalore"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Galleria Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd By Nykaa"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway RMZ Bangalore"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women Mall Of Asia"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Yelahanka"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home Décor & Fashion Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Orion Avenue",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Orion East Mall"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Arcade Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Gopalan Arcade Mall"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "M5 Ecity Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | M5 Mall"
+      },
+      {
+        "Brand name": "Funcity Instant Voucher",
+        "Product ID": "Funcity Instant Voucher",
+        "Store name": "FunCity M5 Mall"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - M5 Ecity Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - M5 Ecity Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - M5 Mall, Electronic City Phase 2"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE M5 mall"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd By Nykaa"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - M5 Ecity Mall, Bengaluru"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Soul Space Spirit",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Cental 3 Mall, Bangalore"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Mathaji gas agency"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Amare Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Garuda Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Garuda Mall, Yelahanka"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Promenade Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mantri Avenue",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gopalan Grand Mall",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Indiranagar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Star Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Factory outlet"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Star Mall, Gurugram"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Gurugram - Star Mall"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Gurugram - Star Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sahara Mall",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "My Jio Store Instant Voucher",
+        "Product ID": "My Jio Store Instant Voucher",
+        "Store name": "My Jio Store"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Raymond Custom tailoring Park Avenue"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Supertech"
+      }
+    ]
+  },
+  {
+    "Mall Name": "AMBIENCE MALL, GURUGRAM",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Ambience Mall"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Ambience Mall"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Ambience Mall, Gurugram"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Ambience Mall, Gurugram"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Ambience Mall, Gurugram"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Ambience Mall"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Ambience Mall, Gurugram)"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Ambience Mall, Gurugram (Superman Collection)"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Ambience Mall, Gurugram"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Ambience Mall, Gurugram"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective, Ambience Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS fashion"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Aarke Ritu Kumar"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Gurgaon"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Ambience Mall"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Ambience Mall, Gurgaon)"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "West Elm-Luxe Instant Voucher",
+        "Product ID": "West Elm-Luxe Instant Voucher",
+        "Store name": "West Elm"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Ambience Mall Gurgaon"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "SAMARTH LIFESTYLE RETAILING PVT LTD"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI Ambience"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MGF Metropolitan Mall",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | MGF Mall, Gurugram"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Gurgaon Metropolitan"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at MGF Metropolitan Mall, Gurugram"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at MGF Metropolitan Mall, Gurugram"
+      },
+      {
+        "Brand name": "Imagine Apple Premium Reseller Instant Voucher",
+        "Product ID": "Imagine Apple Premium Reseller Instant Voucher",
+        "Store name": "Imagine Apple Premium Reseller, MGF Metropolitan Mall"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at MGF Metropolitan Mall, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - MGF Metropolitan Mall, Gurugram"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - MGF Metropolitan Mall, Gurugram"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - MGF Metropolitan Mall, Gurugram"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies, MGF Metropolitan Mall"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | MGF Metropolitan Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (MGF Metropolis Mall, Gurugram)"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | MGF Metropoliton Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - MGF Metropolitian Mall, Gurugram"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Store"
+      },
+      {
+        "Brand name": "Linen Club Instant Voucher",
+        "Product ID": "Linen Club Instant Voucher",
+        "Store name": "Linen Club"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Mgf Metropolitan Mall"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - MGF Metropolis Mall"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Lee & Wrangler Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - MG Road"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Plan Luxe Wellness Spa"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Metropolitan Mall Mens store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ardee Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Tata Starbucks"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Ardee Mall, Gurugram"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Ardee Mall, Gurugram"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd by Nykaa"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Ardee Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Ardee mall"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Ardee Mall"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Wazirabad"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American eagle"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Ardee Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Airia Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "PURE Home + Living"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Airia Mall Gurgaon | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Airia Mall, Gurugram"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Airia Mall, Gurugram"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Airia Mall"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Airia Mall, Sector 68, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Reach Aria Mall, Gurugram"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco bell"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men & Women Clothing Store, Reach Aria"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Airia Mall, Gurgaon"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "Samsonite/American Tourister Luggage store"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite/American Tourister Luggage store"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Visit Nykaa Luxe's website"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Visit Nykaa Luxe's website"
+      },
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "SNITCH - Airia Mall, Gurugram"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Mens & Women wear"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England, Airia Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia women wear store Reach-Airia mall"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Visit Hush Puppies Store's website"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Sector 68"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MGF Megacity Mall",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in DLF Phase 1, Gurugram"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Body Spa"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in DLF Phase 1, Gurugram"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Good Earth City Center Mall",
+    "City": "Fatehpur",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Good Earth City Centre Mall, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Good Earth Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Good Earth City Centre Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Good Earth City Centre Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Sector 50"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Raheja Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Visit Helios Packaging Pvt. Ltd.'s website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Omaxe Celebration Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Sohna Road"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Omaxe Mall, Gurugram"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Global Foyer Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Future World Instant Vouchers",
+        "Product ID": "Future World Instant Vouchers",
+        "Store name": "Future World - Apple Authorised Reseller"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mega Mall Gurgaon",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - DLF"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Samarth Lifestyle Retailing Private Limited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Hong Kong Bazaar",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Sector 57, Gurugram"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "Lalit Taneja | Best Anxiety and Confidence Coach | Master NLP Coach and Energy Healer"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Grand Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "NONA Lifestyle"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Options Unlimited | Best Wooden Flooring Provider in Delhi - NCR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Omaxe City Centre",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Omaxe City Centre, Sector 49, Gurugram (First Lens Replacement Free)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Plaza Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - MEHRAULI"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gold Souk Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Gold Souk Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Options Unlimited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MGF Metropolis Mall",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway MGF Metropolitan"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Office Systems"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Spa Luxe-Luxury Spa On Mg Road"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - MGF Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Esplanade Mall by DHOOT GROUP",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | The Esplanade Mall Sector 37 Gurugram"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Esplanade Mall, Gurugram)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mall Fifty One",
+    "City": "Bindapur",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Mall Fifty One"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Central Plaza Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Central Plaza Mall"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Central Plaza Gurgaon"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Central Plaza Sector 53, Gurugram"
+      }
+    ]
+  },
+  {
+    "Mall Name": "South point Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at South Point Mall, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Metro World Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Sec 55-56, Gurugram"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Sec 55-56, Gurugram"
+      }
+    ]
+  },
+  {
+    "Mall Name": "ILD Trade Centre",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Sohna Road Gurugram"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway ILD Trade Centre"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | ILD Trade Centre, Gurgaon"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Factory Outlet"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Elements One Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "The Lifestyle Loft"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Iris Broadway",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Reach 3 Roads",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Reach 3 Roads"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Reach 3 Roads, Sector 70, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon For Him and Her in Reach Mall,Sec 70,Gurgaon"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Idea Cosmic Plaza",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Point Instant Vouchers",
+        "Product ID": "Reliance Smart Point Instant Vouchers",
+        "Store name": "Reliance Smart Point"
+      }
+    ]
+  },
+  {
+    "Mall Name": "IREO GRAND VIEW HIGH STREET GURUGRAM",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF Mall of India, Noida",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - DLF Mall of India, Noida"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Mall Of India"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Mall Of India, Sector 18, Noida"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Mall Of India, Sector 18, Noida"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Mall Of India (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Mall of India | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - DLF Mall, Noida"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - DLF Mall of India, Noida"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living, Mall of India"
+      },
+      {
+        "Brand name": "Muji-Luxe Instant Voucher",
+        "Product ID": "Muji-Luxe Instant Voucher",
+        "Store name": "MUJI Mall of India"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Mall of India, Noida"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (DLF Mall of India, Noida)"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "Miniklub"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Mall of India"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Mall Of India"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo Accessories- Mall Of India, Noida"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "Simon Carter London"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Sector 18"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Mall of India"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden NOIDA"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Store"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "samsonite Store in Noida, Uttar Pradesh"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids Mall Of India"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans Noida"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune"
+      },
+      {
+        "Brand name": "La Martina-Luxe Instant Voucher",
+        "Product ID": "La Martina-Luxe Instant Voucher",
+        "Store name": "La Martina Noida"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Juniors- Mall Of India"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman DLF MOIN"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective, Mall Of India, Noida"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (DLF Mall of India, Noida)"
+      },
+      {
+        "Brand name": "INGLOT Instant Vouchers",
+        "Product ID": "INGLOT Instant Vouchers",
+        "Store name": "Inglot"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Satyam Plaza",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Raj Gas Service"
+      }
+    ]
+  },
+  {
+    "Mall Name": "AIPL Joy Street",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | AIPL Joy Street | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store - Joy Street, Gurgaon"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Centre Mall",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Sector 28"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Eros City Square",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Eros Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "JMD REGENT ARCADE MALL",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Gurgaon - MG Road"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sapphire 83",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Sapphire 83 Mall, Gurugram (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Sapphire 83, Gurugram)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Sapphire 83"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "Gentlemen Cut & Stich | The Raymond Shop | Imported Fabric Shop | Gents Tailor in Sector 83 Gurugram"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Sapphire Mall, Gurugram"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "CHEHAK - JOCKEY / Amante / Triumph / Van Heusen / Enamor / Bodycare / Trylo / Speedo / Duke / Neva / Monte Carlo"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Vatika, Gurugram"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Relax Spa and therepy only female"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sushant Shopping Arcade",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Sushant Lok"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Flour & Sugar - Luxe Cakery"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Cross Point Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sapphire 90 Mall",
+    "City": "Meoka",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Conscient One",
+    "City": "Pawala Khasrupur",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Conscient One Mall, Sector 109 Gurugram"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "JMD Empire Square, Gurgaon",
+    "City": "Sarhol",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | JMD Empire Square Gurugram"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Pacific D21 Mall",
+    "City": "Delhi",
+    "State": "110077",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Pacific Mall, Sector 21, Dwarka (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Pacific Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eyewear"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "M2K Corporate Park Shopping Plaza",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "ALLEN Career Institute - Sector 51 Campus, Gurugram | IIT JEE, NEET & Foundation Coaching"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Würfel Küche - Mayfield, Gurugram - Luxury Modular Kitchens & Wardrobes"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Elan Miracle",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Elan Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Elan Miracle Mall, Gurugram"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Elan Miracle Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Elan Miracle Mall, Gurgaon"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira (Elan Mall Miracle, Gurugram)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Elan Miracle"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ Elan Miracle Gurugram"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ Elan Miracle Gurugram"
+      },
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "Snitch"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Platinum Tower",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      }
+    ]
+  },
+  {
+    "Mall Name": "M3m 65th Avenue",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Iroha - Japanese lifestyle story"
+      }
+    ]
+  },
+  {
+    "Mall Name": "ARCADE -48",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers Factory Outlet"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Central Arcade",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Central Arcade"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Shopping Mall Condominium Association",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Arjun Marg, DLF Phase 1, Gurugram (First Lens Replacement Free)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ocus Medley",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Sector 99 Gurugram"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Ocus Medley Sector 99, Gurgaon"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Newtown Square Mall",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Sector 95A Gurugram"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | New Town Square, Gurgaon"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "BATA STORE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "TAPASYA ONE",
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Tapasya One"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF Emporio",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "Emporio Armani"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "Bally-Luxe Instant Voucher",
+        "Product ID": "Bally-Luxe Instant Voucher",
+        "Store name": "BALLY DLF EMPORIO"
+      },
+      {
+        "Brand name": "Jimmy Choo-Luxe Instant Voucher",
+        "Product ID": "Jimmy Choo-Luxe Instant Voucher",
+        "Store name": "Jimmy Choo"
+      },
+      {
+        "Brand name": "Versace-Luxe Instant Voucher",
+        "Product ID": "Versace-Luxe Instant Voucher",
+        "Store name": "VERSACE"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "RI. Ritu kumar"
+      },
+      {
+        "Brand name": "Kate Spade-Luxe Instant Voucher",
+        "Product ID": "Kate Spade-Luxe Instant Voucher",
+        "Store name": "KATE SPADE"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI DLF Emporio"
+      },
+      {
+        "Brand name": "Bottega Veneta-Luxe Instant Voucher",
+        "Product ID": "Bottega Veneta-Luxe Instant Voucher",
+        "Store name": "Bottega Veneta"
+      },
+      {
+        "Brand name": "Giorgio Armani-Luxe Instant Voucher",
+        "Product ID": "Giorgio Armani-Luxe Instant Voucher",
+        "Store name": "Giorgio Armani"
+      },
+      {
+        "Brand name": "Canali-Luxe Instant Voucher",
+        "Product ID": "Canali-Luxe Instant Voucher",
+        "Store name": "Canali Boutique"
+      },
+      {
+        "Brand name": "Tory Burch-Luxe Instant Voucher",
+        "Product ID": "Tory Burch-Luxe Instant Voucher",
+        "Store name": "Tory Burch"
+      },
+      {
+        "Brand name": "Valentino-Luxe Instant Voucher",
+        "Product ID": "Valentino-Luxe Instant Voucher",
+        "Store name": "Valentino"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Visit Satya Paul (DLF Emporio Mall, Delhi)'s website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gardens Galleria Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Oscar Luxe Club | Air Bar - Noida Sector 38"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Garden Galleria Mall, GIP Noida"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Gip Noida"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Visit Louis Philippe - Gardens Galleria Mall's website"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Inorbit Mall Cyberabad",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Cyberabad Inorbit"
+      },
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Inorbit Mall, Hyderabad)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Inorbit Mall, Madhapur"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill - Inorbit Mall"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Hitec City"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Hitec City"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Inorbit Mall - Hyderabad"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Madhapur"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Inorbit Mall HYD"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works బాత్& బాడీ వర్క్స్"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in Madhapur, Telangana"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Inorbit Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Inorbit Mall"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Inorbit Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Pigeon Instant Vouchers",
+        "Product ID": "Pigeon Instant Vouchers",
+        "Store name": "Gnaneshwari Pigeon Safety Nets:Balcony Safety Nets, Anti Bird Nets,Invisible grills for balcony,Sports Nets in Madhapur"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Inorbit Hyderabad"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Hyderabad - Inorbit Mall"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO ACCESSORIES- Inorbit, Hyderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Hyderabad Central",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - PUNJAGUTTA"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Punjagutta"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite store in Somajiguda, Hyderabad"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Wrangler"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Center Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Planet Fashion Instant Voucher",
+        "Product ID": "Planet Fashion Instant Voucher",
+        "Store name": "Planet Fashion"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      }
+    ]
+  },
+  {
+    "Mall Name": "GVK One Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Gvk Hyderabad"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's GVK One Mall"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - GVK One Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | GVK One, Hyderabad"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | GVK 1 Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "HIDESIGN"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - GVK One Mall"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, GVK one Mall"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - GVK Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Hyderabad - GVK One"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman GVK Mall"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "SIMON CARTER GVK ONE MALL HYDERABAD"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Arrow & Izod Arvind lifestyle Brands LTD"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London, GVK"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London, GVK"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia GVK Mall Hyderabad"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Banjara Hills, Hyderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "NSL Centrum Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ashoka One Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Ashoka One Mall, Hyderabad"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Ashoka One Mall, Kukatpally, Hyderabad)"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty BookStore"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Hyderabad Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside | Nexus Mall, Hyderabad"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "R&B Instant Vouchers",
+        "Product ID": "R&B Instant Vouchers",
+        "Store name": "R&B (Rare & Basics India Pvt. Ltd.)"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Next Galleria Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Next Galleria Irrumanzil"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - L&T Metro Mall"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "R&B Instant Vouchers",
+        "Product ID": "R&B Instant Vouchers",
+        "Store name": "R&B - Next Galleria Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sarath City Capital Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Sarath City Mall"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - SCC Mall, Kothaguda"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Sarath City Capital Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Sarath City Capital Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Sarath City Capital Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "LEVI'S - Balaji Retail"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Sarath City Capital Mall"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Sarath City Capital Mall, Hyderabad)"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Sarath City | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Sarath City Capital Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Sarath City Capital Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen solly"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Exclusive Brand Outlet - Sarath City"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Sarath City Capital Mall"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Wrangler"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Sharath City Capital Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "LuLu Mall Hyderabad",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Lulu Hypermarket Instant Vouchers",
+        "Product ID": "Lulu Hypermarket Instant Vouchers",
+        "Store name": "LuLu Hypermarket Hyderabad"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Balanagar, Hyderabad"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "TRiBE by Croma"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - LULU Mall, Hyderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Atrium Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Atrium Mall, Hyderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "E Galleria",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DSL Virtue Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at DSL Virtue Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | DSL Virtue Mall Uppal, Hyderabad"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Uppal, Hyderabad"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | DSL Virtue Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "UNLIMITED FUN"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends footwear"
+      },
+      {
+        "Brand name": "Trends Man Instant Voucher",
+        "Product ID": "Trends Man Instant Voucher",
+        "Store name": "TRENDS MAN"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Uppal"
+      },
+      {
+        "Brand name": "MOTHER CARE-Luxe Instant Voucher",
+        "Product ID": "MOTHER CARE-Luxe Instant Voucher",
+        "Store name": "Mother Care"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - DSL Virtue Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly DSL virtue mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Lumbini Jewel Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Linen Club Instant Voucher",
+        "Product ID": "Linen Club Instant Voucher",
+        "Store name": "Linen Club"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Alcazar Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Podium Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Unlimited Fun"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Next Galleria Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Next Galleria Mall, Hyderabad"
+      },
+      {
+        "Brand name": "R&B Instant Vouchers",
+        "Product ID": "R&B Instant Vouchers",
+        "Store name": "R&B (Rare & Basics India Pvt. Ltd.)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Musarambagh | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | L&T Moosarambagh, Hyderabad"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub - New Malakpet, Hyderabad"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MCube Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Attapur, Hyderabad"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Chennai Shopping Mall - Suchitra",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Linen Club Instant Voucher",
+        "Product ID": "Linen Club Instant Voucher",
+        "Store name": "IRIS Linen Club"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sattva Necklace Mall",
+    "City": "Secunderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Secunderabad"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Praga Mall, Hyderabad"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Salapuria Sattva Necklace Mall, Secunderabad)"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside, Pragya Mall, Secunderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Chennai Shopping Mall - Patny Center",
+    "City": "Secunderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Reliance Trends Instant Vouchers",
+        "Product ID": "Reliance Trends Instant Vouchers",
+        "Store name": "Reliance Trends Patny"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SLN terminus, Gachibowli",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway SLN Terminus"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Asian Satyam Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "TNR Northcity Mall & Multiplex",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - North City Hyderabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Amrutha Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Amrutha Mall, Hyderabad"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Punjagutta, Hyderabad"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Punjagutta, Hyderabad"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Odeon Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "TACO BELL"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MPM Millennium Wajihuddin Estate",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "GSM Mall & Multiplex",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Hyderabad - Miyapur"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | GSM Mall, Hyderabad"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "HAMLEYS - LUXE Instant Voucher",
+        "Product ID": "HAMLEYS - LUXE Instant Voucher",
+        "Store name": "Hamleys - GSM Mall 4th floor"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Visit Hush Puppies Store's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Westend Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Banjara Hills"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Fortune Monarch Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Anutex Shopping Mall",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City plaza",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Abids"
+      }
+    ]
+  },
+  {
+    "Mall Name": "M B Towers",
+    "City": "Banjara Hills Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Khairtabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Next PREMIA",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Erramanzil"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SNITCH - Vasavi Kukatpally",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Hyderabad-KPHB"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aparna Neo Mall",
+    "City": "Nallagandla",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Aparna Mall"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Aparna NEO Mall, Nallagandla"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Marketcity Pune",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Phoenix Marketcity"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Viman Nagar, Pune"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Pavillion Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Pavillion Mall, Pune"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at The Pavillion Mall, Pune (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Pune - ICC Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Pune - The Pavillion"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - The Pavillion Mall, Pune"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer (Only Lingerie) Reliance India Private Limited"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly PAVILLION MALL"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in The Pavilion, mall Pune"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, ICC Pavillion Mall, Pune"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Pune - The Pavillion"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans Pavilion Pune"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Shivajinagar"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister (The Pavilion Mall)"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Amanora Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Pune - Amanora"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Amanora Mall, Hadapsar"
+      },
+      {
+        "Brand name": "Nilkamal Homes Instant Voucher",
+        "Product ID": "Nilkamal Homes Instant Voucher",
+        "Store name": "Nilkamal Homes- Premium Furniture and Homeware store"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China | Hadapsar"
+      },
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Magarpatta, Pune"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd By Nykaa"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Amanora mall, Pune"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Amanora Mall, Pune"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - AMANORA MALL | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Seasons Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Seasons Mall"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Magarpatta Pune"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Seasons Mall, Pune)"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon For Him and Her in Seasons Mall,Magarpatta,Pune"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Seasons Mall, Hadapsar"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Seasons Mall, Hadapsar"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Seasons Mall"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Seasons Mall Pune | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Magarpatta"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Magarpatta"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Seasons Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Mens Seasons Mall"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Seasons Mall, Pune"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Seasons Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Men's Clothing Store, Season's Mall, Pune"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa kiosk cosmetics season mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Westend Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Aundh Pune"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Westend Mall"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Westend Mall, Pune"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | WestEnd Mall, Pune"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Pune - Westend Mall"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Westend Mall, Pune)"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Westend Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Nexus Westend | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Westend Mall"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Westend Mall, Aundh, Pune"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Innerwear Westend Mall"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Westend Mall, Pune"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Westend Mall Pune"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "STREET FOODS BY PUNJAB GRILL"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "STREET FOODS BY PUNJAB GRILL"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "LEE"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Aundh"
+      },
+      {
+        "Brand name": "Linen Club Instant Voucher",
+        "Product ID": "Linen Club Instant Voucher",
+        "Store name": "Linen Club-Westend Mall, Pune"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Store"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Abhiruchi Mall & Multiplex",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GreenFuel CNG Gas Kit Dealer | Lovato Dealer | CNG Fitment Center Hydro testing in Pune HR Tomasetto Sequential kit in pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Kumar Pacific mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Gurunanak Nagar, Pune"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Kumar Pacific Mall, Pune)"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in Kumar Pacific Mall, Pune"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance Smart Bazaar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Mall of the Millennium",
+    "City": "Pimpri-Chinchwad",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Pune - Wakad"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Wakad, Pune"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside- Phoenix Millenium Mall, Pune"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Phoenix Mall of Millennium | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China | Wakad"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Phoenix Mall of the Millennium, Pune)"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers Pheonix Mall of Millenium"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Menswear - Mall of the Millennium"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen First Floor , Mall of Millennium"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Store"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Pune - Phoenix Mall of the Millennium"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Product ID": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Store name": "Charles Tyrwhitt"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo Accessories- Mall of the Millenium, Pune"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Mall of Millennium"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Royale Heritage Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nitesh Hub",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Visit Armani Exchange's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aeromall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Aero Mall (Vimannagar)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Aero Mall"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Aero Mall, Pune"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Visit Bata Shoe Store's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "KOPA Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living, The KOPA"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill The Kopa Mall"
+      },
+      {
+        "Brand name": "West Elm-Luxe Instant Voucher",
+        "Product ID": "West Elm-Luxe Instant Voucher",
+        "Store name": "West Elm Pune"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, The Kopa, Pune"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - The KOPA Mall"
+      },
+      {
+        "Brand name": "The White Crow-Luxe Instant Voucher",
+        "Product ID": "The White Crow-Luxe Instant Voucher",
+        "Store name": "The White Crow, Pune"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers- The KOPA, Koregaon Park, Pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SGS Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - SGS Mall, Camp Pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Creaticity",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Nilkamal Homes Instant Voucher",
+        "Product ID": "Nilkamal Homes Instant Voucher",
+        "Store name": "Nilkamal Homes- Premium Furniture and Homeware store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "JVA Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Karve Nagar"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (JVA Mall, Pune)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mariplex Metro Square",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Mariplex"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Shoppers Orbit",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Xclusive - Vishrantwadi, Pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Elpro City Square Mall",
+    "City": "Pimpri-Chinchwad",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Elpro City Square Mall, Pune"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Elpro City Square Mall, Chinchwad (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Elpro Mall, Pimpri-Chinchwad"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Pune - Chinchwad"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Elpro-Pune"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "SNITCH - Elpro Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women Clothing Store, Elpro City Square"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Elpro City Square Mall, Chinchwad, Pune"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Elpro City"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Men's Clothing Store, Elpro City Square Mall, Pune"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Elpro City Square"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Pune - Chinchwad"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in Chinchwad, Pune"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Visit Nykaa's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Piazza Pizza By Little Italy SGS Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Magnum Mall (Kakde), Pune"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - SGS Mall, Pune"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (SGS Mall, Pune)"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at SGS Mall, Pune (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - SGS Mall, Pune"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister - The Luggage Bags Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Premier Plaza Mall",
+    "City": "Pimpri-Chinchwad",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.Com Flagship Store at Chinchwad, Pune (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Chinchwad Highway, Pune"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Chinchwad Highway, Pune"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Men's Clothing Store, Old Mumbai Pune Road, Chinchwad, Pune"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "Puma store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aditya Shagun Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Bavdhan"
+      }
+    ]
+  },
+  {
+    "Mall Name": "93 AVENUE",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | 93 Avenue, Pune"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at 93 Avenue Mall, Kalubai Chowk (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sky Max Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Share Trading Campus Viman Nagar"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MDC Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "R Deccan Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Pune - Deccan"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Revolution Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Pureit Dealer - Croma"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Grand Highstreet",
+    "City": "Pimpri-Chinchwad",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Pune - Hinjawadi"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Global High Street Mall, Hinjewadi"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon For Him and Her in Hinjewadi,Pune"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Hinjewadi, Pune"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Grand Highstreet Mall, Pune)"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Tribeca Highstreet",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Kondhwa, Pune"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | NIBM Road | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store - NIBM Pune"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - NIBM, Pune"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway NIBM"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Kondhwa"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Wonderland shopping complex",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Unlimited Fashion & Accessories"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Deccan 99 Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Jangli Maharaj Road, Pune"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Jangli Maharaj Road, Pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gandharv Galaxia Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Rupera Lifestyle & Facilities Services"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Center Point",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Systems"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sagar Arcade",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Testing Campus"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Dolphin Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - 93 Avenue"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Time Square",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aishwaryam One",
+    "City": "Pimpri-Chinchwad",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Chinchwad"
+      },
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | Chinchwad, Pune"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Reliance Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Clover Hills Plaza",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Pune - NIBM"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Clover Hills Plaza, Pune"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W.M. Innovative Technocon LLP"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Kakde Plaza",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Aarti Bag Sales & Repair Ladies Purse AmericanTourist Vip Skybags Safri Arstocrat Wildcraft Samsonite Wallets Belt Sling Bags"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Aarti Bag Sales & Repair Ladies Purse AmericanTourist Vip Skybags Safri Arstocrat Wildcraft Samsonite Wallets Belt Sling Bags"
+      }
+    ]
+  },
+  {
+    "Mall Name": "NYATI PLAZA",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nyati Empress",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | Viman Nagar, Pune"
+      },
+      {
+        "Brand name": "Sweet Bengal Instant Vouchers",
+        "Product ID": "Sweet Bengal Instant Vouchers",
+        "Store name": "Sweet Bengal"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Purva Plaza",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Denim Plus Lifestyle Pvt Ltd"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Reliance Mall",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Townsquare by Naiknavare Developers",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Town Square"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Vijaya Mall",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Nexus Vijaya Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Nexus Vadapalani"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Vijaya Forum Mall, Chennai"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Forum Mall Chennai"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub - Nexus Vijaya Mall, Chennai"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Nexus Vijaya Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England MOSe"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Court"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - The Forum Vijaya Mall, Chennai"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Forum Vijaya Mall, Chennai"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in Vadapalani, Chennai"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Nexus Vijaya Mall"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Nexus Vijaya Mall"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak – Home Décor & Fashion Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Vadapalani"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Express Avenue",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance Smart Bazaar"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Royapettah, Chennai"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Express Avenue Connect"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Express Avenue, Chennai"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Express Avenue Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Express Avenue Mall, Chennai)"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Express Avenue Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Express Avenue, Chennai"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Express Avenue, Chennai"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Express Avenue Mall, Chennai"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Royapettah"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Express Avenue"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Express Avenue, Chennai"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Express Avenue Mall"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Express Mall"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO Store - Express Avenue Mall"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Kiosk"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister EA Mall"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Express Avenue"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Visit Lee - Baland Trading Company Private Limited's website"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Visit Only's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Marketcity",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Jazz Cinemas LUXE"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Phoenix Market City Mall, Velachery (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Phoenix Market City"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Phoenix Marketcity"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Indira Gandhi Nagar, Chennai"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Phoenix Market City, Chennai"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Mainland China"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Phoenix Market City | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity Mall, Velachery"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity Mall, Velachery"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Phoenix Market City, Chennai)"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Chennai - Phoenix Mall"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Phoenix Market City, Chennai"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano Phoenix Market City"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Velachery"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Asia Seven Express Instant Voucher",
+        "Product ID": "Asia Seven Express Instant Voucher",
+        "Store name": "Asia Seven Express"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe Sports - Phoenix Marketcity"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "PETER ENGLAND MENS OBSESSION STORE"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Phoenix Market City, Chennai"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Phoenix Market City Mall, Chennai"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "Diesel Store - Chennai"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Velachery"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO- Phoenix Marketcity, Chennai"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - Velacherry Main Road, Chennai"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Gas Jeans Chennai"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Phoenix Market City Chennai"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Chennai - Phoenix Market City"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Phoenix Market City"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Visit Shoppers Stop's website"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Chennai - Phoenix Market City"
+      }
+    ]
+  },
+  {
+    "Mall Name": "VR Chennai",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | VR Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - VR Mall, Chennai"
+      },
+      {
+        "Brand name": "Toscano Instant Voucher",
+        "Product ID": "Toscano Instant Voucher",
+        "Store name": "Toscano"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "Puma Chennai VR Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at VR Mall, Chennai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at VR Mall, Chennai"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - VR Mall, Chennai"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - VR Mall, Chennai"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - VR Mall, Chennai"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (VR Chennai Mall, Chennai)"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Anna Nagar West"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Anna Nagar West"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - VR Mall Chennai"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Chennai VR mall"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister ,VR Mall Chennai"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Menswear Exclusive Showroom"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - VR Mall Chennai"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo at VR Mall"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Palladium",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "Kate Spade-Luxe Instant Voucher",
+        "Product ID": "Kate Spade-Luxe Instant Voucher",
+        "Store name": "Kate Spade"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London Palladium"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London Palladium"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective - Palladium Mall, Chennai"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Grand Square",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Grand Mall"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - Grand Square Mall, Chennai | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's Dessert Kiosk"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister (VKT Bags) Grand Square"
+      }
+    ]
+  },
+  {
+    "Mall Name": "THE MARINA MALL CHENNAI",
+    "City": "Egattur",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at The Marina Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - OMR Marina Mall"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - The Marina Mall, OMR, Chennai"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Marina Mall, Egattur"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Marina Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Marina Mall, Chennai"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Marina Mall, Chennai"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Marina Mall, Chennai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Marina Mall, Chennai"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub - Egattur, Chennai"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks Coffee"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "BASKIN ROBBINS"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Marina Mall"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Marina Mall, Chennai"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Marina Mall"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "Samsonite & American tourister"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite & American tourister"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Menswear Exclusive Showroom"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Visit Hush Puppies Store's website"
+      },
+      {
+        "Brand name": "EasyBuy Instant Voucher",
+        "Product ID": "EasyBuy Instant Voucher",
+        "Store name": "easybuy"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Egattur"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Sakthi Aruna supppliers (LPG) Total gas"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "VIVIRA MALL",
+    "City": "Navalur",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Vivira Mall"
+      },
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | Navallur, Chennai"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "EasyBuy Instant Voucher",
+        "Product ID": "EasyBuy Instant Voucher",
+        "Store name": "EasyBuy"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "The American tourister ( VKT)Vivira mall"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen solly"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Spencer Plaza",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "New Lifestyle"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Forum mall",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men & Women Clothing Store, Nexus Vijaya Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "BSR Mall",
+    "City": "Thoraipakkam",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - BSR Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "CHENNAI CITI CENTRE",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Citi Centre Mall, Chennai"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Challa Mall",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "AMERICAN TOURISTER"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Bergamo Mall",
+    "City": "Poombukar Nagar",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Nungambakkam"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "AEROHUB EAST",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Meenambakkam, Chennai"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Aerohub, Meenambakkam, Chennai)"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Aerohub"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ampa Skyone",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Cafe Coffee Day Instant Vouchers",
+        "Product ID": "Cafe Coffee Day Instant Vouchers",
+        "Store name": "Cafe Coffee Day Ampa Skyone"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Ampa Skyone"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Ampa Skyone Mall, Chennai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SKLS GALAXY MALL",
+    "City": "Padianallur",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ispahani Centre",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Nungambakkam High Rd"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Bhaiya Complex",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Zeba, Deensha Lifestyle, Amin Impex Fashions"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SEKARAN MALL",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "BMR Mall",
+    "City": "Navalur",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "SLAM Lifestyle & Fitness Studio, Navalur OMR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gbs Phoenix Mall (les)",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "LEE"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "wrangler phoenix market city"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sun Plaza",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Health and Glow Instant Voucher",
+        "Product ID": "Health and Glow Instant Voucher",
+        "Store name": "Health And Glow RO office"
+      }
+    ]
+  },
+  {
+    "Mall Name": "LKS PLAZA",
+    "City": "Chennai",
+    "State": "Tamil",
+    "Products": [
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Anna Nagar, Chennai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Marketcity",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation Mumbai Kurla"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Phoenix Market City, Mumbai)"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Kurla"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Kurla Phoenix, Mumbai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Kurla Phoenix, Mumbai"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Phoenix Market City Mall, Mumbai"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Phoenix Market City Mall, Kurla (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Kurla"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Enrich Salon Kurla W Phoenix Mall"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Phoenix Market City Kurla, Mumbai"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity, Mumbai"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Phoenix Marketcity, Mumbai"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Phoenix Market City"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Kurla West"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Mumbai - Phoenix Market City"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Phoenix Market City, Kurla, Mumbai"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO- Marketcity Kurla"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "SIMON CARTER PHOENIX MARKET CITY MUMBAI"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - Pheonix Market City Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, PMC Kurla"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Phoenix Marketcity, Mumbai"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Men's Clothing Store, Phoenix Market City Mall, Kurla (W)"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "INGLOT Instant Vouchers",
+        "Product ID": "INGLOT Instant Vouchers",
+        "Store name": "INGLOT"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Phoenix Marketcity Kurla"
+      },
+      {
+        "Brand name": "Aeropostale Instant Voucher",
+        "Product ID": "Aeropostale Instant Voucher",
+        "Store name": "Aeropostale"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Holdings Ltd"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Gas"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "Miniklub"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Phoenix Palladium",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Phoenix Palladium Mall"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Grand Galleria, Mumbai"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Grand Galleria, Mumbai"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "Muji-Luxe Instant Voucher",
+        "Product ID": "Muji-Luxe Instant Voucher",
+        "Store name": "MUJI Palladium"
+      },
+      {
+        "Brand name": "TRUEFITT & HILL Instant Vouchers",
+        "Product ID": "TRUEFITT & HILL Instant Vouchers",
+        "Store name": "Truefitt & Hill Palladium"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - High Street Phoenix, Lower Parel, Mumbai"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Phoenix Palladium | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "IRTH House of Titan"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Mumbai - Phoenix Mills Compound"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "MOTHER CARE-Luxe Instant Voucher",
+        "Product ID": "MOTHER CARE-Luxe Instant Voucher",
+        "Store name": "Mother Care"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Phoenix Palladium, Mumbai)"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective - Palladium Mall, Lower Parel"
+      },
+      {
+        "Brand name": "Selected Homme Instant Voucher",
+        "Product ID": "Selected Homme Instant Voucher",
+        "Store name": "Selected Homme"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Palladium Mumbai"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Palladium Mumbai"
+      },
+      {
+        "Brand name": "Jimmy Choo-Luxe Instant Voucher",
+        "Product ID": "Jimmy Choo-Luxe Instant Voucher",
+        "Store name": "Jimmy Choo"
+      },
+      {
+        "Brand name": "Scotch & Soda-Luxe Instant Voucher",
+        "Product ID": "Scotch & Soda-Luxe Instant Voucher",
+        "Store name": "Scotch & Soda"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI Palladium"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "Emporio Armani Mumbai Palladium"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Palladium Mall, Mumbai)"
+      },
+      {
+        "Brand name": "Villeroy and Boch-Luxe Instant Voucher",
+        "Product ID": "Villeroy and Boch-Luxe Instant Voucher",
+        "Store name": "Villeroy and Boch"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Mumbai - Palladium"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Lower Parel"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London Palladium"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London Palladium"
+      },
+      {
+        "Brand name": "VICTORIA'S SECRET Instant Vouchers",
+        "Product ID": "VICTORIA'S SECRET Instant Vouchers",
+        "Store name": "Victoria's Secret"
+      },
+      {
+        "Brand name": "Bottega Veneta-Luxe Instant Voucher",
+        "Product ID": "Bottega Veneta-Luxe Instant Voucher",
+        "Store name": "Bottega Veneta"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL Store Palladium Mumbai"
+      },
+      {
+        "Brand name": "INGLOT Instant Vouchers",
+        "Product ID": "INGLOT Instant Vouchers",
+        "Store name": "INGLOT"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite South Asia Pvt. Ltd"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Fable Street Lifestyle Solutions Pvt. Limited (Lower Parel)"
+      },
+      {
+        "Brand name": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Product ID": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Store name": "Salvatore Ferragamo"
+      },
+      {
+        "Brand name": "La Martina-Luxe Instant Voucher",
+        "Product ID": "La Martina-Luxe Instant Voucher",
+        "Store name": "La Martina Mumbai"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO- Palladium Mumbai"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Visit Hush Puppies Store's website"
+      },
+      {
+        "Brand name": "Aeropostale Instant Voucher",
+        "Product ID": "Aeropostale Instant Voucher",
+        "Store name": "Visit Aeropostale's website"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Phoenix High Street"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Luxe Casa By Momentz"
+      },
+      {
+        "Brand name": "Versace-Luxe Instant Voucher",
+        "Product ID": "Versace-Luxe Instant Voucher",
+        "Store name": "Rosenthal Versace"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop"
+      },
+      {
+        "Brand name": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Product ID": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Store name": "Charles Tyrwhitt"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Oberoi Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Oberoi Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Oberoi Mall, Mumbai"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket Goregaon East"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China | Goregaon"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Oberoi Mall Goregaon"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Oberoi Mall"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Goregaon East"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Oberoi Mall"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women - Oberoi, Goregaon"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Goregaon East - Mumbai"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Oberoi Mall"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "SSBeauty by Shoppers Stop - Goregaon East"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Visit Bata Shoe Store's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Infiniti Mall - Andheri",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "PVR ICON Infiniti Andheri (W) Mumbai"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Infiniti Mall, Andheri, Mumbai"
+      },
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - ANDHERI (INFINITI MALL)"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Andheri West, Mumbai"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Link Road, Mumbai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Link Road, Mumbai"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Infinity Mall, Andheri, Mumbai)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Infinity Mall"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Infiniti Mall, Andheri West"
+      },
+      {
+        "Brand name": "Pret A Manger-Luxe Instant Voucher",
+        "Product ID": "Pret A Manger-Luxe Instant Voucher",
+        "Store name": "Pret A Manger"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Infiniti Mall"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe- Infiniti Andheri"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Infiniti Malad"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in Infiniti Mall, Mumbai"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Infiniti Mall Malad",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Infiniti Mall (Malad)"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Tip and Toe Luxe The Nail, Lashes, Brows & Microblading - Malad Infinite 2"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China | Malad West"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Infiniti Mall Malad, Mumbai"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Enrich Salon Malad W Infiniti 2 Mall"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Infiniti Mall 2, Malad"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Infiniti Mall, Mumbai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Infiniti Mall, Mumbai"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Infiniti Mall, Malad, Mumbai)"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Infiniti Mall, Malad West"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Infiniti Mall, Malad West"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Malad West"
+      },
+      {
+        "Brand name": "Blissclub Instant Vouchers",
+        "Product ID": "Blissclub Instant Vouchers",
+        "Store name": "Blissclub - Activewear for Women"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign India Pvt Ltd"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Infiniti Mall, Mumbai"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men & Women Clothing Store, Infinity Malad"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Infiniti Mall, Malad, Mumbai"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Infinity Malad"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO ACCESSORIES- Infiniti Mall, Mumbai"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Malad West"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Only Paratha"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "SSBeauty by Shoppers Stop - Infinity Mall"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Hoppoo Lifestyle India Pvt Ltd"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Mumbai - Mumbai Infinity Mall"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids Infinity Malad"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Infiniti Malad Mall"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister ( Infiniti Mall )"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "unlimited"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Wrangler"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Exclusive Brand Outlet - Infiniti Mall, Malad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Inorbit Mall Malad",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Inorbit Mall, Malad"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Inorbit Mall, Mumbai"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Mumbai"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Mumbai"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Inorbit Mall, Malad (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Malad West"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights, Inorbit Mall, Malad"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Inorbit Mall, Malad, Mumbai"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Malad"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill Malad"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men & Women Clothing Store, Inorbit Malad"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Inorbit Mall"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Only"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Malad West"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Malad West"
+      },
+      {
+        "Brand name": "VICTORIA'S SECRET Instant Vouchers",
+        "Product ID": "VICTORIA'S SECRET Instant Vouchers",
+        "Store name": "Victoria's Secret"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Visit BEAUTE LUXE's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "R CITY",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - R City Mall"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - R City Mall, Ghatkopar"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - GHATKOPAR (R-CITY MALL)"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - R-City Mall Ghatkopar"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - R City Ghatkopar"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill R-City Mall"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | R City Ghatkopar, Mumbai"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (R City Mall, Mumbai)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway R City Mall"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - R City Mall, Mumbai"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Ghatkopar West, Mumbai)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia & Mio"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Ghatkopar, Mumbai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Ghatkopar, Mumbai"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - R City Mall, Ghatkopar, Mumbai"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen-Women Clothing Store"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Wills Lifestyle"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak – Home Décor & Fashion Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Ghatkopar West"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Allen Solly - LBS Road, Ghatkopar (W)"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - LBS Road, Ghatkopar (W)"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Exclusive Brand Outlet R-City Mall"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - R City Sports"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "House of Samsonite"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden RCITY"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Mumbai - R City Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "CR2 Shopping Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Raghuleela Mall Vashi - The Wadhwa Group",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Oh! Calcutta Instant Vouchers",
+        "Product ID": "Oh! Calcutta Instant Vouchers",
+        "Store name": "Oh! Calcutta | Navi Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Little World Mall",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - KHARGHAR"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Little World Mall, Kharghar, Mumbai)"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Xclusive - Kharghar, Navi Mumbai"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England Store"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Inorbit Mall, Vashi",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Inorbit Mall, Vashi , Mumbai"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Vashi, Navi Mumbai"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Inorbit Mall, Navi Mumbai)"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Inorbit Mall, Vashi (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Vashi"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Navi Mumbai"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Vashi"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Inorbit Mall, Vashi"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway InOrbit Mall vashi"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Store Inorbit Mall Vashi"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Inorbit Mall, Vashi"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Vashi - Inorbit Mall"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Inorbit Mall, Vashi"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins Inorbit Vashi"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "Samsonite I American Tourister I Just Luggage I Vashi"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Mumbai - Inorbit Vashi"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "PETER ENGLAND"
+      }
+    ]
+  },
+  {
+    "Mall Name": "K Star Mall.",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | K Star Mall Chembur, Mumbai"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (K-Star Mall, Mumbai)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Viviana Mall",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Envi Salon & Spa - Viviana Mall, Thane (W)"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (LakeShore Mall, Thane)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Thane Viva City Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - LakeShore Mall, Thane"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Viviana Mall, Thane"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen By Mainland China | Thane West"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Lake Shore Mall, Thane (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - LakeShore Mall, Thane"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Viviana Mall, Thane"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Viviana Mall, Thane"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "Miniklub"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Thane"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Viviana Mall, Thane"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Studio"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Viviana Mall, Thane"
+      },
+      {
+        "Brand name": "Parx Instant Vouchers",
+        "Product ID": "Parx Instant Vouchers",
+        "Store name": "Parx"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Thane - Thane West"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Viviana Mall"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women Viviana Mall"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Lake Shore Mall, Thane"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sky City Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "SNITCH - Sky City Mall"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Sky City Mall, Borivali East"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Sky City Mall, Borivali East"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Sky City Mall, Borivali East"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Asia Kitchen by Mainland China (@ Oberoi Skycity Mall)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Oberoi Sky City"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "Visit ColorPlus's website"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Visit Mia by Tanishq - Borivali East, Mumbai's website"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Visit Mia by Tanishq - Borivali East, Mumbai's website"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Oberoi Skycity Mall, Borivali, Mumbai"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Sky City Mall, Oberoi-Borivali)"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign (@ Oberoi Skycity Mall)"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "Simon Carter (@ Oberoi Skycity Mall)"
+      },
+      {
+        "Brand name": "Pret A Manger-Luxe Instant Voucher",
+        "Product ID": "Pret A Manger-Luxe Instant Voucher",
+        "Store name": "Pret A Manger"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Raghuleela Mega Mall Kandivali West",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Trading Campus"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "RAGHULEELA MEGA MALL KANDIVALI W PREMISES CO-OP SOCIETY LTD"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Assets And Homes"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Jio World Drive",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "Muji-Luxe Instant Voucher",
+        "Product ID": "Muji-Luxe Instant Voucher",
+        "Store name": "MUJI JWD"
+      },
+      {
+        "Brand name": "West Elm-Luxe Instant Voucher",
+        "Product ID": "West Elm-Luxe Instant Voucher",
+        "Store name": "West Elm"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Jio World drive Bandra Kurla Complex, Mumbai"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Kate Spade-Luxe Instant Voucher",
+        "Product ID": "Kate Spade-Luxe Instant Voucher",
+        "Store name": "Kate Spade"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Jio World Drive Mumbai"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Jio World Drive, Mumbai)"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "TUMI"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "Emporio Armani"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans JWD"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids JWD Mall"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL store, JWD"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Arcade Shopping Centre",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      }
+    ]
+  },
+  {
+    "Mall Name": "R Mall Thane",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - R Mall, Thane"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "R&B Instant Vouchers",
+        "Product ID": "R&B Instant Vouchers",
+        "Store name": "R&B (Rare & Basics India Pvt. Ltd.)"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance Smart Bazaar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Tiles"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - R Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, R. Mall"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "PETER ENGLAND"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nakshatra Mall Dadar",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Disha Computer Institute Dadar (W)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ashoka Shopping Centre",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Patron Digital Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Metro Plaza",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Rubberwala The Platinum Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "TIGER LIFESTYLE ACCESSORIES"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Tewari Brothers",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans Palladium High Street"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Women Phoenix High Street"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      }
+    ]
+  },
+  {
+    "Mall Name": "LODHA Xperia Mall",
+    "City": "Dombivli",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Dombivli East, Thane"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Dombivli"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Xperia Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Xperia Mall, Dombivli"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Xperia Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Xperia Mall, Dombivali, Maharashtra)"
+      },
+      {
+        "Brand name": "Snitch Instant Voucher",
+        "Product ID": "Snitch Instant Voucher",
+        "Store name": "SNITCH - Lodha Xperia Mall"
+      },
+      {
+        "Brand name": "Levis",
+        "Product ID": "Levis",
+        "Store name": "Levis Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Seawoods Grand Central Mall",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Seawoods, Navi Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Metro Junction Mall",
+    "City": "Kalyan",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Metro Junction Mall Kalyan, Thane"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Metro Junction Mall, Kalyan , Mumbai)"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Metro Junction Mall, Kalyan (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "EasyBuy Instant Voucher",
+        "Product ID": "EasyBuy Instant Voucher",
+        "Store name": "EasyBuy"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Kalyan, Metro Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Metro Junction Mall, Kalyan"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop"
+      },
+      {
+        "Brand name": "R&B Instant Vouchers",
+        "Product ID": "R&B Instant Vouchers",
+        "Store name": "R&B – Metro Junction Mall"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Mahanagar Gas Stove Service"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Citi Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "PVR Citi Mall Andheri (W) Mumbai"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Andheri West, Mumbai"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Andheri West, Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Prime Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Maa Mobile ( Only Blackberry )"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Korum",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Korum Mall, Thane"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Mumuso - Korum Mall, Thane | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Korum Mall, Thane, Mumbai"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Korum Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Korum"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Korum Mall, Thane"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee Cooper Exclusive Store"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - Jas Ventures"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Star mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Globus Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels - Bandra"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Hub Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - GOREGAON EAST (HUB MALL)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "High Street Phoenix",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Phoenix Mall"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon For Him and Her in High Street Phoenix,Mumbai"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway High Street Phoenix"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Highstreet Phoenix Lower Parel, Mumbai"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "MARKS & SPENCER"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Liberty Shopping Centre",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Yogesh Gas Service"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Utopia City, Worli",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Crossroads Mall",
+    "City": "Dehradun",
+    "State": "Uttarakhand",
+    "Products": [
+      {
+        "Brand name": "Future World Instant Vouchers",
+        "Product ID": "Future World Instant Vouchers",
+        "Store name": "Future World - Apple Premium Reseller"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Wrangler"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Jio World Plaza",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Valentino-Luxe Instant Voucher",
+        "Product ID": "Valentino-Luxe Instant Voucher",
+        "Store name": "Valentino"
+      },
+      {
+        "Brand name": "Versace-Luxe Instant Voucher",
+        "Product ID": "Versace-Luxe Instant Voucher",
+        "Store name": "VERSACE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Link Square Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "YOU ONLY LIVE ONCE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Center Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Only Trust Mobile Shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Centrium Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Lokhandwala Road Kandivali East, Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Acme Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Harmony Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Huma home appliance Ac gas filling refilling Ac installation Ac repair &service"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Vision Unlimited Computers Repair Centre Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Orchard Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "LEE GRANDE SHOPPE PATANJALI STORE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Krishna Curve",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Seawoods",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Seawoods Mall"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Nexus Seawoods, Mumbai)"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Nexus Seawoods Mall"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Mumbai - Seawoods"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Nexus Seawoods"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Nexus Mall, Navi Mumbai"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - L&T Seawood"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Nexus Seawoods Mall, Mumbai (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Nexus Seawoods Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Nexus Seawoods"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Capital Mall",
+    "City": "Vasai-Virar",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Capital Mall Nalasopara, Mumbai"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - The Capital Mall, Vasai-Virar"
+      },
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - The Capital Mall, Nalasopara East"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister / Samsonite Exclusive Store - Capital Mall, Nalasopara"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "American Tourister / Samsonite Exclusive Store - Capital Mall, Nalasopara"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Junior"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (The Capital Vasai, Mumbai)"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Capital Mall"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England - Men's Clothing Store, Capital Mall, Palghar"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mani Square",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Mani Square Mall, Kolkata (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Mani Square Mall, Kolkata"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Mani Square Mall, Kolkata"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Mani Square Mall, Kolkata"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Mani Square, Kolkata"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Mani Square Mall"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Mani Sqaure Mall, Kolkata"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Mani Sqaure Mall Kolkata"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Mani Square Mall, Kolkata"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata shoe store manisquare mall"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Mainland China"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Manicktala Road"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Mani Square"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Maniktala Main Road"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Quest Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Spencer's Instant Voucher",
+        "Product ID": "Spencer's Instant Voucher",
+        "Store name": "Spencer's, Quest Mall"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective - Quest Mall, Kolkata"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Eye Boutique"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Michael Kors-Luxe Instant Voucher",
+        "Product ID": "Michael Kors-Luxe Instant Voucher",
+        "Store name": "Michael Kors"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut- Quest Mall"
+      },
+      {
+        "Brand name": "Scotch & Soda-Luxe Instant Voucher",
+        "Product ID": "Scotch & Soda-Luxe Instant Voucher",
+        "Store name": "Scotch & Soda"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New ( Quest Mall )"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Syed Amir Ali Avenue"
+      },
+      {
+        "Brand name": "Bally-Luxe Instant Voucher",
+        "Product ID": "Bally-Luxe Instant Voucher",
+        "Store name": "BALLY QUEST MALL"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "EMPORIO ARMANI"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE South Asia Pvt Ltd"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "COACH"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Quest Mall, Kolkata)"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "SSBeauty by Shoppers Stop - Quest Mall"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Quest Mall"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Tumi-Luxe Instant Voucher",
+        "Product ID": "Tumi-Luxe Instant Voucher",
+        "Store name": "Tumi"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Quest Mall, Kolkata"
+      },
+      {
+        "Brand name": "Jimmy Choo-Luxe Instant Voucher",
+        "Product ID": "Jimmy Choo-Luxe Instant Voucher",
+        "Store name": "Jimmy Choo"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London, Quest Mall"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London, Quest Mall"
+      },
+      {
+        "Brand name": "Canali-Luxe Instant Voucher",
+        "Product ID": "Canali-Luxe Instant Voucher",
+        "Store name": "Canali Boutique"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL Store, Quest Mall"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Tods-Luxe Instant Voucher",
+        "Product ID": "Tods-Luxe Instant Voucher",
+        "Store name": "Tods Kolkata"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids"
+      },
+      {
+        "Brand name": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Product ID": "Salvatore Ferragamo-Luxe Instant Voucher",
+        "Store name": "Salvatore Ferragamo"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Centre Salt Lake",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Salt Lake Kolkata"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at City Centre 1 Mall, Kolkata (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Sector 1, Kolkata"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - City Centre Mall, Bidhannagar"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - City Centre Mall, Bidhannagar"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Kolkata - Saltlake"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | City Centre Mall, Kolkata"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Optical City Centre"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Bidhannagar"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Salt Lake"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Kolkata - City Centre"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "HIDESIGN"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Exclusive Brand Outlet - City Centre, Kolkata"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men's - Clothing Store, City Centre Salt Lake, Kolkata"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lg lifestyle store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Sector 1"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Lake Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Kolkata - Lake Mall"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan kiosk"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Acropolis Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Acropolis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Acropolis Kolkata"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Acropolis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Acropolis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Acropolis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Acropolis Mall"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Acropolis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Acropolis Mall,Kolkata"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite(Acropolis Mall)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Axis Mall",
+    "City": "New Town",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "Puma"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Axis Mall, Kolkata)"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Axis Mall, Kolkata"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Axis Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "TITAN MBR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Metropolis Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Metropolis Mall, Kolkata (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | lis Mall Highland Park, Kolkata"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "South City Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (South City Mall, Kolkata)"
+      },
+      {
+        "Brand name": "Spencer's Instant Voucher",
+        "Product ID": "Spencer's Instant Voucher",
+        "Store name": "Spencer's South City Mall"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - South City Kolkata"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Mainland China"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at South City Mall"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Kolkata - South City Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (South City Mall, Kolkata)"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway South City Mall"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - Kolkata - South City Mall"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Optical South City Mall"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign South City"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - South City Mall"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - South City Mall"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Southcity Mall"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman South City Mall"
+      },
+      {
+        "Brand name": "Simon Carter Instant Vouchers",
+        "Product ID": "Simon Carter Instant Vouchers",
+        "Store name": "SIMON CARTER SOUTH CITY MALL KOLKATA"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen South City Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia South City Mall Kolkata"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- South City Mall, Kolkata"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "GAS Jeans Kolkata"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "THE COLLECTIVE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Forum Courtyard Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Elgin Road Kolkata"
+      },
+      {
+        "Brand name": "Oh! Calcutta Instant Vouchers",
+        "Product ID": "Oh! Calcutta Instant Vouchers",
+        "Store name": "Oh! Calcutta | Kolkata"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World"
+      },
+      {
+        "Brand name": "Nature's Basket Instant Voucher",
+        "Product ID": "Nature's Basket Instant Voucher",
+        "Store name": "Nature's Basket"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Forum Courtyard, Kolkata"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Elgin Road"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "TITAN EYE+ ELGIN ROAD, KOLKATA"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Only Forum"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Simpark Mall, New market",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar Ramsons"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Merlin Homeland Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Dzone Lifestyle Studio"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Avani Riverside Mall",
+    "City": "Howrah",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Avani Riverside Mall, Kolkata)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues | Avani Mall, Kolkata"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Avani Riverside Mall, Howrah"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Avani Mall, Kolkata"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Avani Riverside Mall"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Avani Mall, Kolkata"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "V-Mart Instant Vouchers",
+        "Product ID": "V-Mart Instant Vouchers",
+        "Store name": "V-Mart-Howrah-Avani Mall"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Avani River Side Mall"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Avani Mall, Howrah"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Avani Mall, Howrah"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Shibpur"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Avani Riverside Mall"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "M&W FASHION PVT LTD"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Forum Rangoli Mall",
+    "City": "Howrah",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Forum Rangoli Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Spencer's Instant Voucher",
+        "Product ID": "Spencer's Instant Voucher",
+        "Store name": "Spencer's Hyper Store"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - Forum Rangoli Mall, Howrah l | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Forum Rangoli Mall, Howrah)"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Multibrand Shopping Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Park Street, Kolkata"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Boston Institute of Analytics - Park Street, Kolkata Campus - School of Technology & AI"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Eat 2 Live Nutrition & Lifestyle Consultancy"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Westside",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - The Gariahat Mall, Kolkata"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Woodburn Central Mall",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Emami Market",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "A H W Steel Limited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Camac Square",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Camac Street | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Siddha Point",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Junction Mall",
+    "City": "Durgapur",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Junction Mall, Bardhaman (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - Durgapur Junction Mall, West Bengal | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Durgapur"
+      },
+      {
+        "Brand name": "Spencer's Instant Voucher",
+        "Product ID": "Spencer's Instant Voucher",
+        "Store name": "Spencer's Junction Mall"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Junction Mall, Durgapur)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Junction Mall, Durgapur"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Junction Mall, Durgapur"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Exclusive Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Junction Mall, Durgapur"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Junction Mall Durgapur"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store - Durgapur"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Junction Mall"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain - City Centre, Durgapur"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Trends Man Instant Voucher",
+        "Product ID": "Trends Man Instant Voucher",
+        "Store name": "TRENDS MAN"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "M&W - \"The Complete Innerwear Store\""
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Centre New Town",
+    "City": "New Town",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - City Center Kolkata"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (City Centre - 2, Kolkata)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Newtown, Kolkata"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - City Centre2 West, Kolkata"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Rajarhat, Kolkata"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Rajarhat, Kolkata"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - City Centre 2"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "Samsonite/American Tourister"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite/American Tourister"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman City Centre 2"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Optics"
+      },
+      {
+        "Brand name": "Wrangler Instant Voucher",
+        "Product ID": "Wrangler Instant Voucher",
+        "Store name": "Wrangler City Centre Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Rajarhat"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Star Mall",
+    "City": "Barasat",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "MUMUSO - Star Mall, Madhyamgram | Lifestyle & Gift Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Star Mall, Kolkata)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Star Mall, Kolkata"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Galleria",
+    "City": "New Town",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Cafe Coffee Day Instant Vouchers",
+        "Product ID": "Cafe Coffee Day Instant Vouchers",
+        "Store name": "Cafe Coffee Day"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Sanjeevani Health & Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Platina Mall",
+    "City": "Howrah",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation - Howrah Maidan"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Platina Mall Howrah, Kolkata"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Silver Arcade",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Oh! Calcutta Instant Vouchers",
+        "Product ID": "Oh! Calcutta Instant Vouchers",
+        "Store name": "Oh! Calcutta | Silver Arcade"
+      },
+      {
+        "Brand name": "Mainland China Instant Vouchers",
+        "Product ID": "Mainland China Instant Vouchers",
+        "Store name": "Mainland China | Tangra"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "BMW OSL Prestige"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Rosedale Plaza",
+    "City": "New Town",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Rosedale Plaza"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Airconditioned Market",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Fabindia Experience Center, Loudon Street",
+    "City": "Kolkata",
+    "State": "West",
+    "Products": [
+      {
+        "Brand name": "Organic India Instant Vouchers",
+        "Product ID": "Organic India Instant Vouchers",
+        "Store name": "Organic India Store - Loudon Street, Kolkata"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF Promenade",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Delhi - Vasant Kunj"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Promenade Mall, Delhi)"
+      },
+      {
+        "Brand name": "Pret A Manger-Luxe Instant Voucher",
+        "Product ID": "Pret A Manger-Luxe Instant Voucher",
+        "Store name": "Pret A Manger"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids Dlf Promenade"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO ACCESSORIES- DLF Promenade Mall"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe Store"
+      },
+      {
+        "Brand name": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Product ID": "BEVERLY HILLS POLO CLUB Instant Vouchers",
+        "Store name": "Beverly Hills Polo Club"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Ambiance Mall, Vasantkunj"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Visit Armani Exchange's website"
+      },
+      {
+        "Brand name": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Product ID": "CHARLES TYRWHITT-Luxe Instant Voucher",
+        "Store name": "Charles Tyrwhitt"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Visit Baskin Robbins's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ambience Mall, Vasant Kunj",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Vasant Kunj"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Vasant Kunj, Delhi"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Vasant Kunj, Delhi"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Ambience Mall (Vasantkunj)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Vasant Kunj"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Ambience Mall, Vasant Kunj"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Ambience Mall, Vasant Kunj"
+      },
+      {
+        "Brand name": "Dune-Luxe Instant Voucher",
+        "Product ID": "Dune-Luxe Instant Voucher",
+        "Store name": "Dune London"
+      },
+      {
+        "Brand name": "Dune London-Luxe Instant Voucher",
+        "Product ID": "Dune London-Luxe Instant Voucher",
+        "Store name": "Dune London"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Ambience Mall, Delhi)"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Ambience Mall, New Delhi"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Ambience Mall, Vasant Kunj | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykd by Nykaa"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective - Ambience Mall, New Delhi"
+      },
+      {
+        "Brand name": "Diesel-Luxe Instant Voucher",
+        "Product ID": "Diesel-Luxe Instant Voucher",
+        "Store name": "DIESEL Store - Ambience Mall Vasant Kunj"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Vasant Kunj"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Woman"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Gas"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Visit Woodland's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Vegas Mall",
+    "City": "Delhi",
+    "State": "110078",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+at Vegas Mall, Delhi / Ncr"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+at Vegas Mall, Delhi / Ncr"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Vegas Mall Dwarka (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Dwarka Vegas mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Vegas Mall (Dwarka)"
+      },
+      {
+        "Brand name": "Future World Instant Vouchers",
+        "Product ID": "Future World Instant Vouchers",
+        "Store name": "Future World - Apple Authorised Service Provider"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Vegas Mall, Delhi"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Vegas Mall, New Delhi"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Vegas Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Vegas Mall, Dwarka"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Vegas Mall, Dwarka"
+      },
+      {
+        "Brand name": "Taneira Instant Vouchers",
+        "Product ID": "Taneira Instant Vouchers",
+        "Store name": "Taneira Sarees (Vegas Mall, Delhi)"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Vegas Mall"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee Vegas Mall"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Vegas Mall, New Delhi)"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living, Vegas Mall"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Vegas Mall"
+      },
+      {
+        "Brand name": "Blissclub Instant Vouchers",
+        "Product ID": "Blissclub Instant Vouchers",
+        "Store name": "Blissclub I Vegas Mall Dwarka, Delhi"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - Menswear Vegas Mall"
+      },
+      {
+        "Brand name": "Adidas Kids-Luxe Instant Voucher",
+        "Product ID": "Adidas Kids-Luxe Instant Voucher",
+        "Store name": "Adidas Kids Vegas mall Dwarka"
+      },
+      {
+        "Brand name": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Product ID": "Street Foods By PUNJAB Grill Instant Voucher",
+        "Store name": "Street Foods By Punjab Grill - Vegas Mall, Dwarka"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Vegas Mall Dwarka, New Delhi"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Vegas Dwarka"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Vegas Mall, Dwarka"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Vegas Mall Dwarka Delhi"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA - New Delhi - Vegas Mall"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Vegas Mall, Dwarka"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO- Vegas Mall, Delhi"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul Accessories"
+      },
+      {
+        "Brand name": "Linen Club Instant Voucher",
+        "Product ID": "Linen Club Instant Voucher",
+        "Store name": "Linen club"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Nexus Select CityWalk",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Select Citywalk Mall, Saket"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Select City walk, Saket (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Select City Mall, New Delhi"
+      },
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul (Select Citywalk Mall-Accessories, Delhi)"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "Aldo- Select Citywalk, Delhi"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Chanakya",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective, Chanakya Mall, New Delhi"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Pacific Mall Tagore garden",
+    "City": "Delhi",
+    "State": "110018",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Pacific Mall, New Delhi"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Pacific Mall"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Pacific Mall"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Pacific Mall, New Delhi"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Pacific Mall, New Delhi (Superman Collection)"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Pacific Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Pacific Mall Subhash Nagar"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Pacific Mall, Tagore Garden"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Pacific Mall, Tagore Garden"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Subhash Nagar, New Delhi"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Pacific Mall"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Pacific Mall, Tagore garden, New Delhi"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Opticals"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry, Pacific Mall Delhi"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "Charles & Keith"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "JACK & JONES - Khayala"
+      },
+      {
+        "Brand name": "CALL IT SPRING Instant Vouchers",
+        "Product ID": "CALL IT SPRING Instant Vouchers",
+        "Store name": "CALL IT SPRING"
+      },
+      {
+        "Brand name": "The Collective Instant Voucher",
+        "Product ID": "The Collective Instant Voucher",
+        "Store name": "The Collective - Pacific Mall, New Delhi"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Label Ritu Kumar, Pacific Mall, Delhi"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "FET Fire Protection System - FIRE SUPPRESSION| FIRE PROTECTION| GAS FLOODING MANUFACTURER"
+      },
+      {
+        "Brand name": "Aeropostale Instant Voucher",
+        "Product ID": "Aeropostale Instant Voucher",
+        "Store name": "Aeropostale (Pacific Mall)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF Avenue Saket",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation- Southern Park Mall, Saket"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Delhi - Saket"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Pure Home + Living",
+        "Product ID": "Pure Home + Living",
+        "Store name": "Pure Home + Living"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY"
+      },
+      {
+        "Brand name": "Vero Moda Instant Vouchers",
+        "Product ID": "Vero Moda Instant Vouchers",
+        "Store name": "VERO MODA"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Select City Walk"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "RITU KUMAR-Luxe Instant Voucher",
+        "Product ID": "RITU KUMAR-Luxe Instant Voucher",
+        "Store name": "Ritu Kumar"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Emporio Armani-Luxe Instant Voucher",
+        "Product ID": "Emporio Armani-Luxe Instant Voucher",
+        "Store name": "Emporio Armani (Ea7) (Select Citywalk Mall)"
+      },
+      {
+        "Brand name": "EA7-Luxe Instant Voucher",
+        "Product ID": "EA7-Luxe Instant Voucher",
+        "Store name": "Emporio Armani (Ea7) (Select Citywalk Mall)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Vasant Square Mall",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "BOSE Authorized Service Center - Servify (Service Lee Technologies Pvt. Ltd)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Vasant Square Mall, Delhi"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Vasant Square Mall"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Opticals"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Visit Study Campus's website"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Centre, Dwarka",
+    "City": "Delhi",
+    "State": "110077",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Sector 12, Dwarka"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Sec 12 Dwarka, New Delhi"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Sector 12 Dwarka"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Soul City Mall, Dwarka",
+    "City": "Delhi",
+    "State": "110078",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Dwarka"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Dwarka Sector 13, Radisson Hotel Soul City)"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Dwarka, New Delhi"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister luggage store, Soul City Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF MALL",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "BABLU GAS STOVE REPAIR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "V3S Mall",
+    "City": "Delhi",
+    "State": "110092",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | V3S Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway V3S Mall"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub - V3S Mall, New Delhi"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - V3S Mall, Laxmi Nagar, New Delhi"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - V3S Mall"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Nirman Vihar"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - V3S Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia V3S Mall Delhi"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "My Campus Review"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Ifox Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Unity One Mall - Janakpuri",
+    "City": "Delhi",
+    "State": "110058",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Janakpuri, Delhi)"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Pureit Dealer - Croma"
+      }
+    ]
+  },
+  {
+    "Mall Name": "3C's Mall, Lajpat Nagar",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Lajpat Nagar, Delhi"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ansal plaza",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "SHENARO Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Crescent Mall",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Satya Paul-Luxe Instant Voucher",
+        "Product ID": "Satya Paul-Luxe Instant Voucher",
+        "Store name": "Satya Paul"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DLF South Square",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "My Jio Store Instant Voucher",
+        "Product ID": "My Jio Store Instant Voucher",
+        "Store name": "My Jio Store"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | DLF South Square Mall Sarojini Nagar, Delhi"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Sarojini Nagar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Cross River Mall, Shahdara",
+    "City": "Delhi",
+    "State": "110032",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Cross River Mall, New Delhi)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Cross River Mall, Delhi"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "MIA ROSE By Instyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Square Mall, Rajouri Garden",
+    "City": "Delhi",
+    "State": "110027",
+    "Products": [
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Levis",
+        "Product ID": "Levis",
+        "Store name": "Levis Exclusive Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "OMAXE CHOWK - CHANDNI CHOWK",
+    "City": "Delhi",
+    "State": "110006",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sangam Courtyard",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Janakplace Shopping Mall",
+    "City": "Delhi",
+    "State": "110058",
+    "Products": [
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Arvind Lifestyle Brands Ltd"
+      },
+      {
+        "Brand name": "Parx Instant Vouchers",
+        "Product ID": "Parx Instant Vouchers",
+        "Store name": "Parx Raymond Apparels Ltd"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Unity One Mall-CBD Shahdara",
+    "City": "Delhi",
+    "State": "110032",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - CBD Shahdara"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "State Emporia Complex",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Connaught Place"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Grand Venice Mall",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Grand Venice Mall, Greater Noida (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | The Grand Venice Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - The Grand Venice, Noida"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Grand Venice Mall, Noida"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (The Grand Venice Mall, Greater Noida)"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "REME Lifestyle"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Noida - Grand Venice Mall"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "AMERICAN TOURISTER & SAMSONITE"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "AMERICAN TOURISTER & SAMSONITE"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mahagun Metro Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Mahagun Metro Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Mahagunmetro Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Mahagun Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      }
+    ]
+  },
+  {
+    "Mall Name": "MGF Metropolitan Mall",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Nexus Select CityWalk, Saket"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - MGF Saket"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Select City Walk"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Select City Walk Mall, Saket, New Delhi)"
+      },
+      {
+        "Brand name": "Future World Instant Vouchers",
+        "Product ID": "Future World Instant Vouchers",
+        "Store name": "Future World - Apple Authorised Reseller"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Select City Walk"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "YouMee Instant Voucher",
+        "Product ID": "YouMee Instant Voucher",
+        "Store name": "YouMee DLF Avenue Saket"
+      },
+      {
+        "Brand name": "CHARLES & KEITH Instant Vouchers",
+        "Product ID": "CHARLES & KEITH Instant Vouchers",
+        "Store name": "CHARLES & KEITH"
+      },
+      {
+        "Brand name": "Forever New Instant Voucher",
+        "Product ID": "Forever New Instant Voucher",
+        "Store name": "Forever New"
+      },
+      {
+        "Brand name": "BATH & BODY WORKS Instant Vouchers",
+        "Product ID": "BATH & BODY WORKS Instant Vouchers",
+        "Store name": "Bath & Body Works"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - Select City walk Mall, Saket"
+      },
+      {
+        "Brand name": "ALDO Instant Vouchers",
+        "Product ID": "ALDO Instant Vouchers",
+        "Store name": "ALDO ACCESSORIES"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Steve Madden-Luxe Instant Voucher",
+        "Product ID": "Steve Madden-Luxe Instant Voucher",
+        "Store name": "Steve Madden Selectcity Walk Saket"
+      },
+      {
+        "Brand name": "Superdry-Luxe Instant Voucher",
+        "Product ID": "Superdry-Luxe Instant Voucher",
+        "Store name": "Superdry"
+      },
+      {
+        "Brand name": "Armani Exchange-Luxe Instant Voucher",
+        "Product ID": "Armani Exchange-Luxe Instant Voucher",
+        "Store name": "Armani Exchange"
+      },
+      {
+        "Brand name": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Product ID": "SUNGLASS HUT-Luxe Instant Voucher",
+        "Store name": "Sunglass Hut"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "SAMSONITE"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - DLF Avenue, New Delhi"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Kiosk"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Brooks Brothers-Luxe Instant Voucher",
+        "Product ID": "Brooks Brothers-Luxe Instant Voucher",
+        "Store name": "Brooks Brothers"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Delhi - Select City Walk Mall"
+      },
+      {
+        "Brand name": "Kama Ayurveda",
+        "Product ID": "Kama Ayurveda",
+        "Store name": "Kama Ayurveda"
+      },
+      {
+        "Brand name": "American Eagle Instant Voucher",
+        "Product ID": "American Eagle Instant Voucher",
+        "Store name": "American Eagle Exclusive Store"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "Jack & Jones (Dlf Place Mall)"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "Nidhi Mohan Kamal - Nutrition & Strength coach , Yoga Teacher"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Parsvnath Mall",
+    "City": "Delhi",
+    "State": "110092",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DDA Shopping Complex - Aurbindo Place",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Kids Luxe"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Flexible Lifestyle Hub"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gaur City Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Gaur City Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Helios Watch Store - By Titan I Greater Noida West, Noida"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - By Titan I Greater Noida West, Noida"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Gaur Mall, Noida"
+      },
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Quest Mall Greater Noida West"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Gaur Mall Noida"
+      },
+      {
+        "Brand name": "MiniKlub Instant Voucher",
+        "Product ID": "MiniKlub Instant Voucher",
+        "Store name": "MiniKlub"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Gaur City Mall, Greater Noida."
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Gaur City Mall"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Park Avenue Instant Vouchers",
+        "Product ID": "Park Avenue Instant Vouchers",
+        "Store name": "Park Avenue"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "Marks & Spencer"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Gaur City"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Regal Building/ Sansad Marg",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Pacific Mall Jasola",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers pacific Mall Jasola New Delhi"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Southern Park Mall, Saket",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "C1 Mahavir Campus"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "ISAAC Luxe - Best Dermatologist Clinic in Saket (Delhi), Best Dermatologist in Delhi"
+      }
+    ]
+  },
+  {
+    "Mall Name": "RCUBE Monad",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Products": [
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Epicah Mall & Business Centre - Mall in West Delhi",
+    "City": "Delhi",
+    "State": "110015",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Epicah Mall (Moti Nagar)"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Chand Central (Miraj Cinemas)",
+    "City": "Delhi",
+    "State": "110091",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Crown Interiorz Mall",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Crown Interiorz Mall"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Crown Interiorz Mall, Faridabad (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Faridabad - Mathura Road"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Crown Interiors Mall, Faridabad"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Crown Interiorz Mall, Faridabad)"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Crown Interior Mall, Faridabad"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery Store | Crown Mall | Faridabad"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Sector 35"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Sector 35"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly - Trendy Clothing Store, Crown Interiorz Mall, Faridabad, Haryana"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Crown Interiorz"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Logix Mall, Wave City Centre",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Logix Mall (Noida)"
+      },
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa On Trend"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Logix Mall, Noida"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Logix City Centre Mall, Noida)"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Hidesign",
+        "Product ID": "Hidesign",
+        "Store name": "Hidesign"
+      },
+      {
+        "Brand name": "Trends Footwear Instant Voucher",
+        "Product ID": "Trends Footwear Instant Voucher",
+        "Store name": "Trends Footwear"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Logix City Centre"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Logix City Centre"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Logix City Center Mall, Noida"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home, Gifts & Accessories"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Men Clothing Store, Logix Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia - Sector 32"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Great India Place",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Gip Noida"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (The Great India Palace Mall, Noida)"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Noida - GIP Mall"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - GIP Mall, Noida"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at The Great India Place Mall, Noida"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at The Great India Place Mall, Noida"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | GIP, Noida"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Great India Place Mall, Noida (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - GIP Mall, Noida"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly GIP"
+      },
+      {
+        "Brand name": "Wildcraft Instant Vouchers",
+        "Product ID": "Wildcraft Instant Vouchers",
+        "Store name": "Wildcraft"
+      },
+      {
+        "Brand name": "Planet Fashion Instant Voucher",
+        "Product ID": "Planet Fashion Instant Voucher",
+        "Store name": "Planet Fashion"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - The Great India Place Mall"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak Pop Store"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman - Sector 38A"
+      },
+      {
+        "Brand name": "Indian Terrain Instant Voucher",
+        "Product ID": "Indian Terrain Instant Voucher",
+        "Store name": "Indian Terrain"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Liberty Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Wave Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Wave Mall, Noida"
+      },
+      {
+        "Brand name": "My Jio Store Instant Voucher",
+        "Product ID": "My Jio Store Instant Voucher",
+        "Store name": "My Jio Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Modi Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Diamond Unlimited"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "HIMALAYA KITCHEN (MBDR HOSPITALITY)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Status Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Brands Unlimited"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Gulshan 129, Noida"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Shopprix Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Spectrum Metro Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - Spectrum Metro, Noida"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - Spectrum Metro, Noida"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Opticals Spectrum Mall"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Paras One33",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Sector 133, Noida (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Paras One Sector 133, Noida"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye Lens Paras133"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      }
+    ]
+  },
+  {
+    "Mall Name": "A Square Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Point Instant Vouchers",
+        "Product ID": "Reliance Smart Point Instant Vouchers",
+        "Store name": "Reliance Smart Point"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Rcube Monad Mall, Noida",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Shopping Planet",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Shri Balaji Mobile communication and gas refilling"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Starling Mall",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Organic India Instant Vouchers",
+        "Product ID": "Organic India Instant Vouchers",
+        "Store name": "Organic India Store - Sector 104, Noida"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "RV Luxe Wellness Clinic"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Omaxe NRI City Center",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Pari Chowk Greater Noida"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gulshan One29",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Gulshan Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Central Market Sector 120",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Sector 120, Noida"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Imperial Arcade Jaypee Wishtown",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Parsvnath City Mall",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Parsvnath City Mall, Faridabad"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "AMERICAN TOURISTER"
+      }
+    ]
+  },
+  {
+    "Mall Name": "OMAXE CONNAUGHT PLACE MALL",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Omaxe Connaught Place Mall (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Omaxe CP, Noida"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Omaxe Noida"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Omaxe Connaught Place Mall, Greater Noida)"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's shop"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ansal plaza Mall",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Ansal Plaza Mall"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Store Empire watch co"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Home care Cooling center _ AC Hire On rent/ Best AC installation/AC installation/ AC Gas filling in greater Noida"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Visit Peter England's website"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "Louis Philippe - Aligarh"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Lee"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Courier Service (Domestic & International)",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "DANDELIONS @ BLUE SAPPHIRE MALL",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "GIVA Instant Vouchers",
+        "Product ID": "GIVA Instant Vouchers",
+        "Store name": "GIVA Silver & Gold Jewellery | Blue Sapphire Mall | Lab Grown Diamonds"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Noida Extension, Noida"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Blue Sapphire"
+      },
+      {
+        "Brand name": "Campus Instant Vouchers",
+        "Product ID": "Campus Instant Vouchers",
+        "Store name": "Campus Shoes Showroom"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Pacific Mall Ghaziabad",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Pacific Mall (Sahibabad)"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Pacific Mall, Ghaziabad)"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Pacific Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Spencer's Instant Voucher",
+        "Product ID": "Spencer's Instant Voucher",
+        "Store name": "Spencer's"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Pacific Ghaziabad"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister"
+      },
+      {
+        "Brand name": "Louis Philippe Instant Voucher",
+        "Product ID": "Louis Philippe Instant Voucher",
+        "Store name": "LOUIS PHILIPPE FACTORY OUTLET PACIFIC MALL KAUSHAMBI GHAZIABAD"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Factory Outlet Pacific mall Ghaziabad"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "ALLEN SOLLY FACTORY OUTLET PACIFIC MALL GHAZIABAD"
+      },
+      {
+        "Brand name": "Lee Instant Voucher",
+        "Product ID": "Lee Instant Voucher",
+        "Store name": "Indo Lee Baaz"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Opulent Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Opulent Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | The Opulent Mall Ghaziabad"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Opulent Mall Ghaziabad"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Opulent Mall, Ghaziabad)"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Innerwear"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      },
+      {
+        "Brand name": "Planet Fashion Instant Voucher",
+        "Product ID": "Planet Fashion Instant Voucher",
+        "Store name": "Planet Fashion"
+      },
+      {
+        "Brand name": "Reliance Jewels Instant Vouchers",
+        "Product ID": "Reliance Jewels Instant Vouchers",
+        "Store name": "Reliance Jewels - Trends - Opulent Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "North India Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Reliance Digital Instant Voucher",
+        "Product ID": "Reliance Digital Instant Voucher",
+        "Store name": "Reliance Digital"
+      },
+      {
+        "Brand name": "Tanishq Jewellery Instant Voucher",
+        "Product ID": "Tanishq Jewellery Instant Voucher",
+        "Store name": "Tanishq Jewellery - Ghaziabad - Shipra Mall"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Shipra"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Indirapuram, Ghaziabad)"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar & Mohey"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Shipra mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Shipra Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Store"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Shipra Mall Indirapuram, Ghaziabad"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite"
+      },
+      {
+        "Brand name": "Marks & Spencer Instant Vouchers",
+        "Product ID": "Marks & Spencer Instant Vouchers",
+        "Store name": "MARKS & SPENCER"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Wills Lifestyle"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - Shipra Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister & Samsonite Store"
+      },
+      {
+        "Brand name": "Jack & Jones",
+        "Product ID": "Jack & Jones",
+        "Store name": "Jack & Jones Store"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W for Woman Shipra Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY - Ghaziabad - Shipra Mall"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia Shipra Mall Noida"
+      },
+      {
+        "Brand name": "Allen Solly Instant Voucher",
+        "Product ID": "Allen Solly Instant Voucher",
+        "Store name": "Allen Solly Shipra Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "INDIA EXPO PLAZA",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Jaipuria Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Jaipuria Mall Indirapuram"
+      },
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Fashions"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Angel Mega Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Banalo"
+      }
+    ]
+  },
+  {
+    "Mall Name": "J.S. Arcade",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "JRVP Bharat Gas Best Gas Agency"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Omaxe Arcade",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Bkp Lifestyle Opc Private Limited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "GOLDEN I",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Golden I"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Golden I Mall, Greater Noida"
+      },
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gaur Central Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Gaur Central Rdc Mall"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Amrapali Crystal Homes Market",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Amrapali Cyrstal Homes"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Marigold Court - HSSC",
+    "City": "Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Mall of Faridabad",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Pacific Mall, Faridabad"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - NIT Market, Faridabad"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Punjab Grill Instant Voucher",
+        "Product ID": "Punjab Grill Instant Voucher",
+        "Store name": "Punjab Grill Pacific Mall Of Faridabad, NIT"
+      },
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "Nykaa Instant Vouchers",
+        "Product ID": "Nykaa Instant Vouchers",
+        "Store name": "Nykaa Luxe"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Cafe Delhi Heights Instant Vouchers",
+        "Product ID": "Cafe Delhi Heights Instant Vouchers",
+        "Store name": "Cafe Delhi Heights"
+      },
+      {
+        "Brand name": "Taco Bell Instant Voucher",
+        "Product ID": "Taco Bell Instant Voucher",
+        "Store name": "Taco Bell"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Lifestyle Stores"
+      },
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Visit Hush Puppies Store's website"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      }
+    ]
+  },
+  {
+    "Mall Name": "SRS Shopping Mall",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Planet Fashion Instant Voucher",
+        "Product ID": "Planet Fashion Instant Voucher",
+        "Store name": "Planet Fashion"
+      }
+    ]
+  },
+  {
+    "Mall Name": "INOX EF3 Mall",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - EF-3 Mall, Faridabad"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Eros Mall, Faridabad"
+      },
+      {
+        "Brand name": "Unlimited Instant Voucher",
+        "Product ID": "Unlimited Instant Voucher",
+        "Store name": "Unlimited wale"
+      }
+    ]
+  },
+  {
+    "Mall Name": "PEBBLE DOWNTOWN",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (Pebbles Mall, Faridabad)"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Pebbles Faridabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Crown Plaza",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - FARIDABAD"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Crown Plaza, Faridabad"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "ColorPlus Instant Vouchers",
+        "Product ID": "ColorPlus Instant Vouchers",
+        "Store name": "ColorPlus"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Exclusive Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen / V Dot"
+      },
+      {
+        "Brand name": "Aurelia Instant Vouchers",
+        "Product ID": "Aurelia Instant Vouchers",
+        "Store name": "Aurelia"
+      },
+      {
+        "Brand name": "Samsonite Instant Vouchers",
+        "Product ID": "Samsonite Instant Vouchers",
+        "Store name": "Samsonite Store in Faridabad Haryana"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Eldeco Station 1 Mall",
+    "City": "& Works 6D Neelam Ajronda metro station",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "World Street by Omaxe",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com Flagship Store at Sector 79, Faridabad (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Omaxe World Sector 79, Faridabad"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Sectore 79, Faridabad"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia By Tanishq - Sector 79, Faridabad"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia By Tanishq - Sector 79, Faridabad"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at World Street, Faridabad"
+      },
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Xclusive - Sec 79, Faridabad"
+      },
+      {
+        "Brand name": "Pigeon Instant Vouchers",
+        "Product ID": "Pigeon Instant Vouchers",
+        "Store name": "Pigeon Exclusive Store - Sector 79, Faridabad | Chimneys, Hobs, Cast Iron Cookware & More"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "Bombay Tailors And Fabrics - Bespoke Menswear | The Raymond Shop | Oldest Tailor of Faridabad | Best Fabric Store |"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Omaxe World Street"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty Exclusive Showroom"
+      },
+      {
+        "Brand name": "American Tourister",
+        "Product ID": "American Tourister",
+        "Store name": "American Tourister Store in Sec 79, Faridabad, Haryana"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Metro Mall Faridabad",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Piyush Mall, Faridabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Piyush Mahendra Mall",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Tanwarfinancegroup",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan World - Dubai Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Shoppers Stop Instant Vouchers",
+        "Product ID": "Shoppers Stop Instant Vouchers",
+        "Store name": "Shoppers Stop Ltd - Gaur Ghaziabad"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Woodland Instant Vouchers",
+        "Product ID": "Woodland Instant Vouchers",
+        "Store name": "Woodland"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W For Woman"
+      },
+      {
+        "Brand name": "Chumbak Instant Vouchers",
+        "Product ID": "Chumbak Instant Vouchers",
+        "Store name": "Chumbak - Home Décor & Fashion Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "EDM Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | East Delhi Mall, Delhi"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (East Delhi Mall, Ghaziabad)"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Barbeque Nation Kaushambi"
+      },
+      {
+        "Brand name": "MIA Instant Vouchers",
+        "Product ID": "MIA Instant Vouchers",
+        "Store name": "Mia by Tanishq - East Delhi Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Mia By Tanishq Instant Voucher",
+        "Product ID": "Mia By Tanishq Instant Voucher",
+        "Store name": "Mia by Tanishq - East Delhi Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen - Clothing Store, East Delhi Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "City Center GZB",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | World Square Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Pantaloons Instant Vouchers",
+        "Product ID": "Pantaloons Instant Vouchers",
+        "Store name": "Pantaloons (World Square Mall, Ghaziabad)"
+      },
+      {
+        "Brand name": "Peter England Instant Voucher",
+        "Product ID": "Peter England Instant Voucher",
+        "Store name": "Peter England"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aditya City Centre",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Aditya Mall (Indirapuram)"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at Indirapuram, Ghaziabad"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at Indirapuram, Ghaziabad"
+      },
+      {
+        "Brand name": "Reliance Smart Bazaar Instant Vouchers",
+        "Product ID": "Reliance Smart Bazaar Instant Vouchers",
+        "Store name": "Reliance SMART Bazaar"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Indirapuram Habitat Centre",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Decathlon Instant Vouchers",
+        "Product ID": "Decathlon Instant Vouchers",
+        "Store name": "Decathlon Sports - Indirapuram"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Indirapuram, Ghaziabad (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Westside Instant Voucher",
+        "Product ID": "Westside Instant Voucher",
+        "Store name": "Westside - Indrapuram, Ghaziabad"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Indirapuram Ghaziabad"
+      },
+      {
+        "Brand name": "Levi's Instant Voucher",
+        "Product ID": "Levi's Instant Voucher",
+        "Store name": "Levi's Habitat"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Shoe Store"
+      },
+      {
+        "Brand name": "Manyavar Instant Vouchers",
+        "Product ID": "Manyavar Instant Vouchers",
+        "Store name": "Manyavar"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      },
+      {
+        "Brand name": "Himalaya Instant Voucher",
+        "Product ID": "Himalaya Instant Voucher",
+        "Store name": "Himalaya Opticals"
+      },
+      {
+        "Brand name": "Baskin Robbins Instant Vouchers",
+        "Product ID": "Baskin Robbins Instant Vouchers",
+        "Store name": "Baskin Robbins"
+      },
+      {
+        "Brand name": "The Body Shop",
+        "Product ID": "The Body Shop",
+        "Store name": "The Body Shop"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers habitat Center"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "W.WATCH ME"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Great Northern Bazaar-GNB Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Bikanervala Instant Voucher",
+        "Product ID": "Bikanervala Instant Voucher",
+        "Store name": "Bikanervala | Raj Nagar Extension Ghaziabad"
+      },
+      {
+        "Brand name": "Croma",
+        "Product ID": "Croma",
+        "Store name": "Croma - Raj Nagar Extension"
+      }
+    ]
+  },
+  {
+    "Mall Name": "KW Delhi 6 Mall (à¤•à¥‡ à¤¡à¤¬à¥à¤²à¥à¤¯à¥‚ à¤¦à¤¿à¤²à¥à¤²à¥€ 6 à¤®à¥‰à¤²)",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Hush Puppies Instant Vouchers",
+        "Product ID": "Hush Puppies Instant Vouchers",
+        "Store name": "Hush Puppies Store"
+      },
+      {
+        "Brand name": "Trends Junior Instant Voucher",
+        "Product ID": "Trends Junior Instant Voucher",
+        "Store name": "TRENDS JUNIOR"
+      },
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers KW Delhi6 GZB"
+      },
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "Puma"
+      }
+    ]
+  },
+  {
+    "Mall Name": "VVIP Style",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | VVIP Mall, Ghaziabad"
+      },
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at VVIP Mall, Noor Nagar (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "Titan Eye+ at VVIP Mall, Rajnagar Ext, Ghaziabad"
+      },
+      {
+        "Brand name": "Titan Eye+ Instant Voucher",
+        "Product ID": "Titan Eye+ Instant Voucher",
+        "Store name": "Titan Eye+ at VVIP Mall, Rajnagar Ext, Ghaziabad"
+      },
+      {
+        "Brand name": "HealthKart Instant Voucher",
+        "Product ID": "HealthKart Instant Voucher",
+        "Store name": "HealthKart - Raj Nagar Extension, Ghaziabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Panchsheel Square",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Ghaziabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Wave Galleria",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Attri Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Saviour Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway La Gracia Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Spectrum",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "D. R Complex",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Reliance Smart Point Instant Vouchers",
+        "Product ID": "Reliance Smart Point Instant Vouchers",
+        "Store name": "Reliance Smart Point"
+      }
+    ]
+  },
+  {
+    "Mall Name": "AVS City Square",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "RihanKhan Kitchen Centre (Genuine Gas Stove Repair"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Konark Building",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "ONLY GENIUS DIGITAL"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Shopprix Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | Vaishali, Ghaziabad"
+      },
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gaur Gravity Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Gaur Gravity"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Eros Market Place",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway Eros Marketplace"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ansal Plaza, Vaishali",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Puma Instant Vouchers",
+        "Product ID": "Puma Instant Vouchers",
+        "Store name": "PUMA Store"
+      },
+      {
+        "Brand name": "Van Heusen Instant Voucher",
+        "Product ID": "Van Heusen Instant Voucher",
+        "Store name": "Van Heusen Factory Outlet Ansal Plaza"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Cloud9",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Skechers Instant Vouchers",
+        "Product ID": "Skechers Instant Vouchers",
+        "Store name": "Skechers - EDM Mall, Ghaziabad"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Niho Scottish Mall",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Fashion Lifestyle"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Omaxe Plaza",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Indane - Sai Baba Gas Sewa"
+      }
+    ]
+  },
+  {
+    "Mall Name": "O.C. Square, Orange County, indirapuram",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Vijay Sales Instant Voucher",
+        "Product ID": "Vijay Sales Instant Voucher",
+        "Store name": "VIJAY SALES - INDIRAPURAM"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gaur City Plaza",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Mr. Himanshu Srivastava- Clinical Psychologist & Psychotherapist (Consultation only prior Appointment)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mahagun Mywoods Mart",
+    "City": "Greater Noida",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Mahagun Mart Shopping Complex (First Lens Replacement Free)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "OPUS",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ganga Shopping Complex",
+    "City": "Ghaziabad",
+    "State": "Uttar",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Indane - Shri Durga Gas"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Palm Beach Galleria Mall",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Absolute Barbecues Instant Voucher",
+        "Product ID": "Absolute Barbecues Instant Voucher",
+        "Store name": "AB's - Absolute Barbecues"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Bhoomi Mall",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lenskart Instant Voucher",
+        "Product ID": "Lenskart Instant Voucher",
+        "Store name": "Lenskart.com at Bhoomi Mall, Belapur (First Lens Replacement Free)"
+      },
+      {
+        "Brand name": "Coach-Luxe Instant Voucher",
+        "Product ID": "Coach-Luxe Instant Voucher",
+        "Store name": "Mukesh Sharma Global Business Coach"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Mahalaxmi Mall",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Titan",
+        "Product ID": "Titan",
+        "Store name": "TITAN TiME WEAR"
+      }
+    ]
+  },
+  {
+    "Mall Name": "R Mall, Mulund",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | R Mall Mulund, Mumbai"
+      },
+      {
+        "Brand name": "KFC Instant Voucher",
+        "Product ID": "KFC Instant Voucher",
+        "Store name": "KFC"
+      },
+      {
+        "Brand name": "Bata Instant Vouchers",
+        "Product ID": "Bata Instant Vouchers",
+        "Store name": "Bata Store"
+      },
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond Shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Devavrata Building",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty General Insurance Ltd."
+      }
+    ]
+  },
+  {
+    "Mall Name": "Aurum Square",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lakme Salon Instant Voucher",
+        "Product ID": "Lakme Salon Instant Voucher",
+        "Store name": "Lakme Salon For Him and Her in Aurum Mall,Ghansoli,Navi Mumbai"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Export Hub",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "My Jio Store Instant Voucher",
+        "Product ID": "My Jio Store Instant Voucher",
+        "Store name": "My Jio Store"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Powai Plaza",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Maharashtra Gas Depot(HP Gas)"
+      },
+      {
+        "Brand name": "Wonderchef Instant Vouchers",
+        "Product ID": "Wonderchef Instant Vouchers",
+        "Store name": "Wonderchef Home Appliances Pvt Ltd"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Miyapur Central",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Products": [
+      {
+        "Brand name": "Subway Instant Voucher",
+        "Product ID": "Subway Instant Voucher",
+        "Store name": "Subway - GSM Mall"
+      },
+      {
+        "Brand name": "Barbeque Nation",
+        "Product ID": "Barbeque Nation",
+        "Store name": "Dumsafar Biryani by Barbeque Nation - GSM Mall"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Amrapali Shopping Center",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "N & W Health And Beauty Private Limited"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Neelyog Square Mall",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "ONLY",
+        "Product ID": "ONLY",
+        "Store name": "Rs 10 only"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Beauty Studio Wholesale Store",
+    "City": "Navi Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Gas-Luxe Instant Voucher",
+        "Product ID": "Gas-Luxe Instant Voucher",
+        "Store name": "Nakoda HP Gas Distributor"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Gokuldham Shopping Centre",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Sweet Bengal Instant Vouchers",
+        "Product ID": "Sweet Bengal Instant Vouchers",
+        "Store name": "Sweet Bengal | Goregaon"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Malad shopping centre",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "The Raymond Shop Instant Vouchers",
+        "Product ID": "The Raymond Shop Instant Vouchers",
+        "Store name": "The Raymond shop"
+      }
+    ]
+  },
+  {
+    "Mall Name": "The Walk",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Starbucks Instant Vouchers",
+        "Product ID": "Starbucks Instant Vouchers",
+        "Store name": "Starbucks"
+      },
+      {
+        "Brand name": "Pizza Hut Instant Vouchers",
+        "Product ID": "Pizza Hut Instant Vouchers",
+        "Store name": "Pizza Hut | The Walk, Thane West, Mumbai"
+      },
+      {
+        "Brand name": "W",
+        "Product ID": "W",
+        "Store name": "Envi salon & Spa - The Walk, Thane (W)"
+      }
+    ]
+  },
+  {
+    "Mall Name": "High Street Mall",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Liberty Instant Vouchers",
+        "Product ID": "Liberty Instant Vouchers",
+        "Store name": "Liberty General Insurance Ltd."
+      }
+    ]
+  },
+  {
+    "Mall Name": "Lodha Boulevard",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "McDonald's Instant Voucher",
+        "Product ID": "McDonald's Instant Voucher",
+        "Store name": "McDonald's"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Arcadia Shopping Center",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Lifestyle Instant Voucher",
+        "Product ID": "Lifestyle Instant Voucher",
+        "Store name": "Dr.Abhijit Bhagat - Ayurvedic treatment for PCOS, Arthritis, Lifestyle modification, Stress Management"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Ashar Edge Galleria",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Luxe Instant Vouchers",
+        "Product ID": "Luxe Instant Vouchers",
+        "Store name": "Tip and Toe Luxe The Nail, Lashes, Brows & Microblading - Thane"
+      },
+      {
+        "Brand name": "Helios Instant Vouchers",
+        "Product ID": "Helios Instant Vouchers",
+        "Store name": "Helios Watch Store - Hiranandani Meadows, Thane"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Infinity Shopping Arcade",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Prestige",
+        "Product ID": "Prestige",
+        "Store name": "Prestige Xclusive - Gandhi Nagar, Thane West"
+      }
+    ]
+  },
+  {
+    "Mall Name": "Sarvoday Mall",
+    "City": "Kalyan",
+    "State": "Maharashtra",
+    "Products": [
+      {
+        "Brand name": "Fashion Factory Instant Vouchers",
+        "Product ID": "Fashion Factory Instant Vouchers",
+        "Store name": "Fashion Factory"
+      }
+    ]
+  }
+];
